@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.soooool.matedash",
+      "sha256_cert_fingerprints": [
+        "2C:9D:A0:90:8B:DC:1E:5C:F2:00:B9:85:CA:B0:49:34:FF:74:BB:16:34:6A:BD:C1:8F:98:5E:6A:E9:B6:54:BB"
+      ]
+    }
+  }
+]

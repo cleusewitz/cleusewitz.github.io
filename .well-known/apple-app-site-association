@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4UZD57F52C.com.soooool.matedash.MateDash",
+        "paths": ["/callback", "/callback*"]
+      }
+    ]
+  }
+}
