@@ -1,0 +1,6 @@
+{
+  "version": "1.8.4",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.4.apk",
+  "notes": "앱 자체 업데이트 대상 변경(공개 매니페스트). 주차 방전 모듈, 차량 제어, 새기능 파란점 등 포함.",
+  "htmlUrl": "https://cleusewitz.github.io/matedash/"
+}
