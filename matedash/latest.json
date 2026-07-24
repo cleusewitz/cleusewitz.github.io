@@ -1,6 +1,6 @@
 {
-  "version": "1.8.5",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.5.apk",
-  "notes": "충전 비용 모듈(이번 달 충전비·kWh당 단가·회당 평균)",
+  "version": "1.8.6",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.6.apk",
+  "notes": "전비 추세 그래프 — 최근 2주 일별 전비(km/kWh) 라인차트",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
