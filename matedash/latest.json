@@ -1,6 +1,6 @@
 {
-  "version": "1.8.11",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.11.apk",
-  "notes": "성능 개선 — 대시보드 이력 조회 중복 제거(공유 캐시)",
+  "version": "1.8.12",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.12.apk",
+  "notes": "미연결 안내 카드 — 연결 안 됐을 때 설정 가이드",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
