@@ -1,6 +1,6 @@
 {
-  "version": "1.8.10",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.10.apk",
-  "notes": "가로모드 클러스터 표시 옵션 — 끄면 가로에서도 대시보드 2열",
+  "version": "1.8.11",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.11.apk",
+  "notes": "성능 개선 — 대시보드 이력 조회 중복 제거(공유 캐시)",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
