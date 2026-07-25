@@ -1,6 +1,6 @@
 {
-  "version": "1.8.6",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.6.apk",
-  "notes": "전비 추세 그래프 — 최근 2주 일별 전비(km/kWh) 라인차트",
+  "version": "1.8.7",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.7.apk",
+  "notes": "월간 리포트 — 이번 달 주행·충전·전비 종합",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
