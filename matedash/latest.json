@@ -1,6 +1,6 @@
 {
-  "version": "1.8.22",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.22.apk",
-  "notes": "차량 명령 서명 프록시 지원. 설정 > Tesla Fleet API에서 개인 tesla-http-proxy URL을 넣으면 잠금/공조/충전 명령이 서명돼 전송됩니다.",
+  "version": "1.8.23",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.23.apk",
+  "notes": "이력 기반 모듈 로딩 시 shimmer 스켈레톤 표시(주행인사이트·월간·전비추세·충전비용·방전·배터리건강). 기존 '불러오는 중...' 텍스트 대체.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
