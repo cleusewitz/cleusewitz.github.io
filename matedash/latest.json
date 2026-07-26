@@ -1,6 +1,6 @@
 {
-  "version": "1.8.14",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.14.apk",
-  "notes": "VIN으로 차량 모델 자동 설정",
+  "version": "1.8.15",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.15.apk",
+  "notes": "로그인 화면 Tesla OAuth 자동복귀 통일",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
