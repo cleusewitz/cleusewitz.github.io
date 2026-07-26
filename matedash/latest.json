@@ -1,6 +1,6 @@
 {
-  "version": "1.8.23",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.23.apk",
-  "notes": "이력 기반 모듈 로딩 시 shimmer 스켈레톤 표시(주행인사이트·월간·전비추세·충전비용·방전·배터리건강). 기존 '불러오는 중...' 텍스트 대체.",
+  "version": "1.8.24",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.24.apk",
+  "notes": "서명 프록시 명령 경로에 VIN 사용 (프록시는 Fleet ID 대신 17자 VIN 요구). 기존 연결 사용자는 자동으로 VIN 조회·저장.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
