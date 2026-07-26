@@ -1,6 +1,6 @@
 {
-  "version": "1.8.20",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.20.apk",
-  "notes": "VIN 라이트 모드 로그아웃 경로 추가",
+  "version": "1.8.21",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.21.apk",
+  "notes": "공조/제어 명령 실패 시 진짜 이유 표시 (가상 키 미등록·차량 오프라인·인증 만료 등). 기존 'No response' 수정.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
