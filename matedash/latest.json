@@ -1,6 +1,6 @@
 {
-  "version": "1.8.16",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.16.apk",
-  "notes": "연결 방식별 기능 구별(게이팅)",
+  "version": "1.8.17",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.17.apk",
+  "notes": "로그인 화면에도 업데이트 배너",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
