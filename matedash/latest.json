@@ -1,6 +1,6 @@
 {
-  "version": "1.8.12",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.12.apk",
-  "notes": "미연결 안내 카드 — 연결 안 됐을 때 설정 가이드",
+  "version": "1.8.13",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.13.apk",
+  "notes": "대시보드 글꼴 크기 조절(홈 편집 A-/A+)",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
