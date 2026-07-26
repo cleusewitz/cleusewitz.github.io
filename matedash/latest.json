@@ -1,6 +1,6 @@
 {
-  "version": "1.8.21",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.21.apk",
-  "notes": "공조/제어 명령 실패 시 진짜 이유 표시 (가상 키 미등록·차량 오프라인·인증 만료 등). 기존 'No response' 수정.",
+  "version": "1.8.22",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.22.apk",
+  "notes": "차량 명령 서명 프록시 지원. 설정 > Tesla Fleet API에서 개인 tesla-http-proxy URL을 넣으면 잠금/공조/충전 명령이 서명돼 전송됩니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
