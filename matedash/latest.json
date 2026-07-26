@@ -1,6 +1,6 @@
 {
-  "version": "1.8.17",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.17.apk",
-  "notes": "로그인 화면에도 업데이트 배너",
+  "version": "1.8.18",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.18.apk",
+  "notes": "로그인 화면 전면 개편 + VIN 라이트 진입",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
