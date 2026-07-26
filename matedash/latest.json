@@ -1,6 +1,6 @@
 {
-  "version": "1.8.18",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.18.apk",
-  "notes": "로그인 화면 전면 개편 + VIN 라이트 진입",
+  "version": "1.8.19",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.19.apk",
+  "notes": "VIN 모델 인식 한국/중국산 지원(오프라인)",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
