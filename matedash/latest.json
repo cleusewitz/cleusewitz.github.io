@@ -1,6 +1,6 @@
 {
-  "version": "1.8.29",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.29.apk",
-  "notes": "품질: 대시보드 숫자 포매터 NaN/Infinity 방어 (roundToInt이 NaN에서 예외→크래시 가능성 제거). 비유한값은 0으로 안전 표시.",
+  "version": "1.8.30",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.30.apk",
+  "notes": "클러스터 음악 게이지 1초 보간 — 소스가 elapsed를 5초마다 줘도 재생 중이면 로컬에서 매초 진행, 새 값 오면 재동기화. 게이지가 매끄럽게 흐름.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
