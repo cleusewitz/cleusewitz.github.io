@@ -1,6 +1,6 @@
 {
-  "version": "1.8.26",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.26.apk",
-  "notes": "충전 장소 통계 모듈 추가 — 자주 충전하는 곳 Top5(횟수 막대·전력·비용). 읽기전용, TeslaMate 이력 기반. 홈 편집에서 추가 가능.",
+  "version": "1.8.27",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.27.apk",
+  "notes": "프록시 URL에 https:// 자동 보정(없으면 붙임 → localhost:80 오류 수정) + 재로그인 시 프록시URL/VIN 유지.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
