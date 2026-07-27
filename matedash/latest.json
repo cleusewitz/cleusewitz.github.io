@@ -1,6 +1,6 @@
 {
-  "version": "1.8.27",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.27.apk",
-  "notes": "프록시 URL에 https:// 자동 보정(없으면 붙임 → localhost:80 오류 수정) + 재로그인 시 프록시URL/VIN 유지.",
+  "version": "1.8.28",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.28.apk",
+  "notes": "테마/접근성: 3차 텍스트 색 대비 개선(WCAG), 하단바 브랜드색 공용 토큰 단일화.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
