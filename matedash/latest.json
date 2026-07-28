@@ -1,6 +1,6 @@
 {
-  "version": "1.8.33",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.33.apk",
-  "notes": "연결(첫 실행) 화면에 연결 방식 선택 안내 문구 추가.",
+  "version": "1.8.34",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.34.apk",
+  "notes": "Fleet API 403 대응 — 위치 스코프 없을 때 위치 빼고 자동 재시도(GPS는 TeslaMate).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
