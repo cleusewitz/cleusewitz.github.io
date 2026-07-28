@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.8.apk",
-  "notes": "자산 추가/편집 화면 스크롤 — 저장 버튼 잘림 수정.",
+  "version": "1.0.9",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.9.apk",
+  "notes": "백업/복원(JSON 클립보드).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
