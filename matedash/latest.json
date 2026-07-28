@@ -1,6 +1,6 @@
 {
-  "version": "1.8.31",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.31.apk",
-  "notes": "배터리 건강 카드에 '평균 대비' 추가 — 주행거리 기준 커뮤니티 평균 열화 곡선과 내 건강도 비교(+/-%p). 참고용 근사치.",
+  "version": "1.8.32",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.32.apk",
+  "notes": "배터리 카드 첫 로딩 시 0% 대신 스켈레톤 표시(데이터 도착 전 깜빡임 제거).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
