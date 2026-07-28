@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.7.apk",
-  "notes": "달러 자산 원화 환산(환율 설정) — 총자산·손익 정확하게.",
+  "version": "1.0.8",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.8.apk",
+  "notes": "자산 추가/편집 화면 스크롤 — 저장 버튼 잘림 수정.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
