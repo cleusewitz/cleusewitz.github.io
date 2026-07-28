@@ -1,6 +1,6 @@
 {
-  "version": "1.8.30",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.30.apk",
-  "notes": "클러스터 음악 게이지 1초 보간 — 소스가 elapsed를 5초마다 줘도 재생 중이면 로컬에서 매초 진행, 새 값 오면 재동기화. 게이지가 매끄럽게 흐름.",
+  "version": "1.8.31",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.31.apk",
+  "notes": "배터리 건강 카드에 '평균 대비' 추가 — 주행거리 기준 커뮤니티 평균 열화 곡선과 내 건강도 비교(+/-%p). 참고용 근사치.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
