@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.0.2.apk",
-  "notes": "세로 사진이 가로로 나오는 문제 수정(EXIF 방향 반영).",
+  "version": "1.0.3",
+  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.0.3.apk",
+  "notes": "누끼(배경 제거) 가장자리 부드럽게 개선 — 하드 임계값 대신 알파 블렌딩.",
   "htmlUrl": "https://cleusewitz.github.io/idfit/"
 }
