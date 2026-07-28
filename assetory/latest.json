@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.5.apk",
-  "notes": "총 평가손익 표시 + 그룹 내 정렬.",
+  "version": "1.0.6",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.6.apk",
+  "notes": "자산 검색 + 정렬(평가액·수익률·이름).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
