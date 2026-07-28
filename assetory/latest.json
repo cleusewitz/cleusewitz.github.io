@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.1.apk",
-  "notes": "앱 이름 Assetory로 변경.",
+  "version": "1.0.2",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.2.apk",
+  "notes": "자산 그룹(증권사·계좌) 추가·묶어보기 기능.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
