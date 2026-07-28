@@ -1,6 +1,6 @@
 {
-  "version": "1.8.32",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.32.apk",
-  "notes": "배터리 카드 첫 로딩 시 0% 대신 스켈레톤 표시(데이터 도착 전 깜빡임 제거).",
+  "version": "1.8.33",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.33.apk",
+  "notes": "연결(첫 실행) 화면에 연결 방식 선택 안내 문구 추가.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
