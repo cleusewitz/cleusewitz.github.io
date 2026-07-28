@@ -1,6 +1,6 @@
 {
-  "version": "1.8.34",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.34.apk",
-  "notes": "Fleet API 403 대응 — 위치 스코프 없을 때 위치 빼고 자동 재시도(GPS는 TeslaMate).",
+  "version": "1.8.35",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.35.apk",
+  "notes": "Fleet API 403 반복 시 폴링 중단(로그 도배 방지) + 실제 403 사유 로그 표시.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
