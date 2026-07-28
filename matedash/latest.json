@@ -1,6 +1,6 @@
 {
-  "version": "1.8.35",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.35.apk",
-  "notes": "Fleet API 403 반복 시 폴링 중단(로그 도배 방지) + 실제 403 사유 로그 표시.",
+  "version": "1.8.36",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.36.apk",
+  "notes": "Fleet API 사용량 절감 — 미디어 폴링 5초→30초(무료 한도 초과 방지). 게이지는 1초 보간 유지.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
