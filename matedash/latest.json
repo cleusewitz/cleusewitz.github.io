@@ -1,6 +1,6 @@
 {
-  "version": "1.8.38",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.38.apk",
-  "notes": "네비게이션 카드에 도착 예상 배터리% 표시(도착 SoC, 낮으면 경고색). TeslaMate로 동작 — Fleet API 사용량 초과와 무관.",
+  "version": "1.8.39",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.39.apk",
+  "notes": "주행 클러스터 상단에 타이어 저압 경고 + 문/트렁크/창문 열림 표시(TeslaMate 기반, Fleet API와 무관).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
