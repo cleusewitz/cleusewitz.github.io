@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.11.apk",
-  "notes": "기록(타임라인) 실데이터화 — 오늘 총자산 스냅샷 자동 기록.",
+  "version": "1.0.12",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.12.apk",
+  "notes": "목표 실데이터화(진행률 실제 총자산 기준) + 목표금액 설정.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
