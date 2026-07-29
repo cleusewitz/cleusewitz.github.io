@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.9.apk",
-  "notes": "백업/복원(JSON 클립보드).",
+  "version": "1.0.10",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.10.apk",
+  "notes": "네이버 증권 시세 새로고침(현재가 자동 조회).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
