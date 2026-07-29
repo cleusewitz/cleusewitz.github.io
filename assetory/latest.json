@@ -1,6 +1,6 @@
 {
-  "version": "1.0.14",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.14.apk",
-  "notes": "대시보드 자산 구성(유형별 비중) 카드 추가.",
+  "version": "1.0.15",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.15.apk",
+  "notes": "자산 추이 그래프 실데이터화(스냅샷 기반).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
