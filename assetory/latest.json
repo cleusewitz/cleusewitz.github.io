@@ -1,6 +1,6 @@
 {
-  "version": "1.0.19",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.19.apk",
-  "notes": "분석 탭 '자산 요약'(최고/최저 자산·증가율) 실데이터화.",
+  "version": "1.0.20",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.20.apk",
+  "notes": "백업/복원 시 기록(스냅샷)·목표 금액도 함께 저장되도록 버그 수정.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
