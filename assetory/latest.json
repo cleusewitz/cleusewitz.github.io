@@ -1,6 +1,6 @@
 {
-  "version": "1.0.17",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.17.apk",
-  "notes": "분석 탭 '상세 지표' 실데이터화.",
+  "version": "1.0.18",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.18.apk",
+  "notes": "설정 화면 추가 + 업데이트 알림이 앱 종료 없이도 뜨게 개선.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
