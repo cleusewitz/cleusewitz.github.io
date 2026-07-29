@@ -1,6 +1,6 @@
 {
-  "version": "1.8.37",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.37.apk",
-  "notes": "Tesla 로그인 안정화 — 토큰 발급 성공 시 차량목록 조회(Fleet 사용량 초과 등)가 실패해도 로그인 유지.",
+  "version": "1.8.38",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.38.apk",
+  "notes": "네비게이션 카드에 도착 예상 배터리% 표시(도착 SoC, 낮으면 경고색). TeslaMate로 동작 — Fleet API 사용량 초과와 무관.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
