@@ -1,6 +1,6 @@
 {
-  "version": "1.8.39",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.39.apk",
-  "notes": "주행 클러스터 상단에 타이어 저압 경고 + 문/트렁크/창문 열림 표시(TeslaMate 기반, Fleet API와 무관).",
+  "version": "1.8.40",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.40.apk",
+  "notes": "도착 예상 배터리% 표시가 2줄로 밀리던 레이아웃 수정(별도 줄로 정리).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
