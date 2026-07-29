@@ -1,6 +1,6 @@
 {
-  "version": "1.0.16",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.16.apk",
-  "notes": "목표 마일스톤 실데이터화(달성 여부 자동).",
+  "version": "1.0.17",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.17.apk",
+  "notes": "분석 탭 '상세 지표' 실데이터화.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
