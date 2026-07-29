@@ -1,6 +1,6 @@
 {
-  "version": "1.0.12",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.12.apk",
-  "notes": "목표 실데이터화(진행률 실제 총자산 기준) + 목표금액 설정.",
+  "version": "1.0.13",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.13.apk",
+  "notes": "대시보드 오늘/이달 변동 실데이터화(기록 스냅샷 기반).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
