@@ -1,6 +1,6 @@
 {
-  "version": "1.0.23",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.23.apk",
-  "notes": "분할 매수 입력 — 한 종목을 여러 날에 나눠 산 내역을 각각 기록.",
+  "version": "1.0.24",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.24.apk",
+  "notes": "매수일 입력 커서 버그 수정.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
