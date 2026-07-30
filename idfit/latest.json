@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.0.4.apk",
-  "notes": "누끼 방식 개선 — 일반 사진도 잘 되도록 Subject Segmentation 적용(셀카는 기존 방식 폴백).",
+  "version": "1.0.5",
+  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.0.5.apk",
+  "notes": "규격 추가 — 저장 시 반명함(이력서, 30x40mm)·명함판(50x70mm) 선택 가능.",
   "htmlUrl": "https://cleusewitz.github.io/idfit/"
 }
