@@ -1,6 +1,6 @@
 {
-  "version": "1.0.24",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.24.apk",
-  "notes": "매수일 입력 커서 버그 수정.",
+  "version": "1.0.25",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.25.apk",
+  "notes": "기록 화면 개선 — 전일 대비 실제 변동 표시 + 원금 지점 명확히 표시.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
