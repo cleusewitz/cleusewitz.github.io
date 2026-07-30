@@ -1,6 +1,6 @@
 {
-  "version": "1.8.40",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.40.apk",
-  "notes": "도착 예상 배터리% 표시가 2줄로 밀리던 레이아웃 수정(별도 줄로 정리).",
+  "version": "1.8.41",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.41.apk",
+  "notes": "충전 중일 때 주행 클러스터 상단에 충전 상태 표시(전력·완료까지·목표 SoC). TeslaMate 기반.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
