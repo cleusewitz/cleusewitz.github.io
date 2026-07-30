@@ -1,6 +1,6 @@
 {
-  "version": "1.8.41",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.41.apk",
-  "notes": "충전 중일 때 주행 클러스터 상단에 충전 상태 표시(전력·완료까지·목표 SoC). TeslaMate 기반.",
+  "version": "1.8.42",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.42.apk",
+  "notes": "야간 자동 밝기 — 밤(19~06시)에 주행 클러스터를 어둡게 해 눈부심 방지(설정에서 on/off).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
