@@ -1,6 +1,6 @@
 {
-  "version": "1.8.42",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.42.apk",
-  "notes": "야간 자동 밝기 — 밤(19~06시)에 주행 클러스터를 어둡게 해 눈부심 방지(설정에서 on/off).",
+  "version": "1.8.43",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.43.apk",
+  "notes": "실시간 로그 정리 — MQTT 상태 중복 로그/수집기 누수 수정, 미디어 미연결 안내 1회만 표시.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
