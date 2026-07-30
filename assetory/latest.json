@@ -1,6 +1,6 @@
 {
-  "version": "1.0.21",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.21.apk",
-  "notes": "분석 탭 월별 수익률 실데이터화(기록 스냅샷 기반 전월 대비 증감).",
+  "version": "1.0.22",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.22.apk",
+  "notes": "매수일 입력 — 자산 추이/타임라인이 산 날(원금 기준)부터 시작.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
