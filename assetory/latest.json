@@ -1,6 +1,6 @@
 {
-  "version": "1.0.36",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.36.apk",
-  "notes": "검색 시 종류 자동선택(ETF 인식) + 매수일 미입력 시 오늘로.",
+  "version": "1.0.37",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.37.apk",
+  "notes": "기록 기본은 변동 있는 날만(전체 보기 토글).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
