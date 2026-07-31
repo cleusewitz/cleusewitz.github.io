@@ -1,6 +1,6 @@
 {
-  "version": "1.0.32",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.32.apk",
-  "notes": "기록 라벨(시작/변동없음) 정리 + 첫날 변화원인 합 일치.",
+  "version": "1.0.33",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.33.apk",
+  "notes": "기록 수익률 소수 2자리 표시.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
