@@ -1,6 +1,6 @@
 {
-  "version": "1.0.34",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.34.apk",
-  "notes": "종목 검색으로 티커 자동 입력.",
+  "version": "1.0.35",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.35.apk",
+  "notes": "영문 섞인 코드 ETF(예: 0091P0) 시세 갱신 수정.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
