@@ -1,6 +1,6 @@
 {
-  "version": "1.0.33",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.33.apk",
-  "notes": "기록 수익률 소수 2자리 표시.",
+  "version": "1.0.34",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.34.apk",
+  "notes": "종목 검색으로 티커 자동 입력.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
