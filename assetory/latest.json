@@ -1,6 +1,6 @@
 {
-  "version": "1.0.26",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.26.apk",
-  "notes": "폰트를 프리텐다드로 통일(시스템 폰트 설정과 무관).",
+  "version": "1.0.27",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.27.apk",
+  "notes": "매수일 이후 실제 자산 변화(2단계) — 과거 일별 시세로 추이/기록 실데이터화 + 로컬 캐시.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
