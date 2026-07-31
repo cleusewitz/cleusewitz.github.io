@@ -1,6 +1,6 @@
 {
-  "version": "1.0.37",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.37.apk",
-  "notes": "기록 기본은 변동 있는 날만(전체 보기 토글).",
+  "version": "1.0.38",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.38.apk",
+  "notes": "과거 시세 초기화 후 재갱신 버튼.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
