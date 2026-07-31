@@ -1,6 +1,6 @@
 {
-  "version": "1.0.27",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.27.apk",
-  "notes": "매수일 이후 실제 자산 변화(2단계) — 과거 일별 시세로 추이/기록 실데이터화 + 로컬 캐시.",
+  "version": "1.0.28",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.28.apk",
+  "notes": "자산 추이를 매수일~오늘 매일 실시세로 재구성(중간날짜 누락·15일 이후 미표시 수정).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
