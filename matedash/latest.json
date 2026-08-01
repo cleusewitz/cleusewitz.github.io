@@ -1,6 +1,6 @@
 {
-  "version": "1.9.4",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.4.apk",
-  "notes": "화면 캐스팅 가로 대응 — 폰을 가로로 돌리면 캡처도 가로로 따라가 브라우저를 꽉 채워요(회전 실시간 감지). 세로 앱은 세로 유지.",
+  "version": "1.9.5",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.5.apk",
+  "notes": "화면 캐스팅 크래시 수정 — 회전 시 캡처 재구성 중 예외가 나도 앱이 죽지 않도록 전부 방어 처리(새로 만든 뒤 옛 것 정리). 안정성 개선.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
