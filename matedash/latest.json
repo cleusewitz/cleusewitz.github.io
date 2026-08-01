@@ -1,6 +1,6 @@
 {
-  "version": "1.9.6",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.6.apk",
-  "notes": "화면 캐스팅 꽉 채움 — 기본을 화면 가득 채우기(cover)로. 차 브라우저 화면을 탭하면 '맞춤(여백)'↔'채움'이 전환되고 전체화면도 시도해요.",
+  "version": "1.9.7",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.7.apk",
+  "notes": "화면 캐스팅 회전 반영 개선 — 일부 기기에서 회전 감지를 놓치던 문제 대비해 1초마다 화면 방향을 확인해 가로/세로를 확실히 따라가게 함.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
