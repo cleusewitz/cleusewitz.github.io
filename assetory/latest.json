@@ -1,6 +1,6 @@
 {
-  "version": "1.0.41",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.41.apk",
-  "notes": "배당 기록 기능(총 수령·올해 배당).",
+  "version": "1.0.42",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.42.apk",
+  "notes": "수익률 불일치 수정(현재가 최신 종가 동기화).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
