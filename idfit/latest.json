@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.0.5.apk",
-  "notes": "규격 추가 — 저장 시 반명함(이력서, 30x40mm)·명함판(50x70mm) 선택 가능.",
+  "version": "1.0.6",
+  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.0.6.apk",
+  "notes": "UI/UX 개선 — 빈 화면 안내 정리(사진 선택 전 가이드가 안내문 위로 겹치던 것 수정), 1장 미리보기 크기 정상화, 장수 조절 버튼 크게, 업데이트 배너에 닫기(✕) 추가.",
   "htmlUrl": "https://cleusewitz.github.io/idfit/"
 }
