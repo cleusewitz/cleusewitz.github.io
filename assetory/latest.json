@@ -1,6 +1,6 @@
 {
-  "version": "1.0.55",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.55.apk",
-  "notes": "미국 ETF·주식 실제 배당 연동(JEPQ 등 Nasdaq 실지급 내역, 환율 적용). 국내는 추정 유지.",
+  "version": "1.0.56",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.56.apk",
+  "notes": "배당 화면 카카오페이 스타일 개편 — 올해 배당(받은+예정) 요약·12개월 막대 차트·월별 종목 내역(몇 주·1주당·언제). 연도 넘기기 지원.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
