@@ -1,6 +1,6 @@
 {
-  "version": "1.0.53",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.53.apk",
-  "notes": "예상 배당을 주/월 단위 일정으로(며칠에 얼마, 10건 이상) + 국내 ETF 실현 분배율(TTM)로 배당 추정.",
+  "version": "1.0.54",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.54.apk",
+  "notes": "기록을 월별로 접고 펼치게 정리(최신 달만 펼침) + 달별 순변동 합계 표시.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
