@@ -1,6 +1,6 @@
 {
-  "version": "1.9.3",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.3.apk",
-  "notes": "화면 캐스팅 검은화면 수정 — 캡처는 정상이었고(로그 확인), 브라우저가 MJPEG 스트림을 못 그리던 문제라 최신 JPEG 폴링 방식으로 변경(모든 브라우저 호환). 이제 화면이 떠요.",
+  "version": "1.9.4",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.4.apk",
+  "notes": "화면 캐스팅 가로 대응 — 폰을 가로로 돌리면 캡처도 가로로 따라가 브라우저를 꽉 채워요(회전 실시간 감지). 세로 앱은 세로 유지.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
