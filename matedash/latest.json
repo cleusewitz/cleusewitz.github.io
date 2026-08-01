@@ -1,6 +1,6 @@
 {
-  "version": "1.9.5",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.5.apk",
-  "notes": "화면 캐스팅 크래시 수정 — 회전 시 캡처 재구성 중 예외가 나도 앱이 죽지 않도록 전부 방어 처리(새로 만든 뒤 옛 것 정리). 안정성 개선.",
+  "version": "1.9.6",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.6.apk",
+  "notes": "화면 캐스팅 꽉 채움 — 기본을 화면 가득 채우기(cover)로. 차 브라우저 화면을 탭하면 '맞춤(여백)'↔'채움'이 전환되고 전체화면도 시도해요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
