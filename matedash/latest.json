@@ -1,6 +1,6 @@
 {
-  "version": "1.8.45",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.45.apk",
-  "notes": "UI/UX 개선 — 타이어 공기압 오표시 수정(항상 빨강이던 것: bar 단위로 정정), 클러스터 과속 경고 테두리 실제 표시, 목적지 이름 스크롤에 멈춤 추가, 설정 스위치 색상 통일.",
+  "version": "1.9.0",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.0.apk",
+  "notes": "v1.9 주행 기록 — 주행할 때마다 자동 기록(거리·시간·전비·사용 배터리), 설정 > 주행 기록에서 이번 달 요약(총 거리·전력·추정 비용)과 트립 목록 확인. TeslaMate 연결 기반.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
