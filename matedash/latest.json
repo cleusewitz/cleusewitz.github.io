@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.1.apk",
-  "notes": "화면 캐스팅(A안, 실험) — 설정 > 미러링 > '화면 캐스팅'을 켜면 화면 녹화 권한 후 폰 화면을 그대로 테슬라 브라우저(http://폰IP:8318)로 송출(보기 전용). 티맵 등 아무 앱 미러링 가능. 같은 와이파이/핫스팟 필요.",
+  "version": "1.9.2",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.2.apk",
+  "notes": "화면 캐스팅 진단 개선 — 실제 화면 해상도 정확히 잡고, 설정>로그(Cast)에 캡처 해상도·첫 프레임 송출 여부 기록. 검은화면 원인 파악용.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
