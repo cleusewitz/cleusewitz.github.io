@@ -1,6 +1,6 @@
 {
-  "version": "1.8.44",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.44.apk",
-  "notes": "미러링(웹 대시보드) 추가 — 폰에서 웹서버를 켜고 테슬라 내장 브라우저로 접속하면 실시간 대시보드를 볼 수 있어요. 설정 > 미러링. 기존 클러스터는 그대로.",
+  "version": "1.8.45",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.45.apk",
+  "notes": "UI/UX 개선 — 타이어 공기압 오표시 수정(항상 빨강이던 것: bar 단위로 정정), 클러스터 과속 경고 테두리 실제 표시, 목적지 이름 스크롤에 멈춤 추가, 설정 스위치 색상 통일.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
