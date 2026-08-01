@@ -1,6 +1,6 @@
 {
-  "version": "1.0.47",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.47.apk",
-  "notes": "자산 탭 종목 카드 레이아웃 수정.",
+  "version": "1.0.48",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.48.apk",
+  "notes": "배당 자동 연동(네이버 주당배당금 × 보유수량).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
