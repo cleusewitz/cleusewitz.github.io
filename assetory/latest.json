@@ -1,6 +1,6 @@
 {
-  "version": "1.0.46",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.46.apk",
-  "notes": "자산 추가 검색결과 레이아웃 + FAB 겹침 수정.",
+  "version": "1.0.47",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.47.apk",
+  "notes": "자산 탭 종목 카드 레이아웃 수정.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
