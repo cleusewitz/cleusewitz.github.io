@@ -1,6 +1,6 @@
 {
-  "version": "1.8.43",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.43.apk",
-  "notes": "실시간 로그 정리 — MQTT 상태 중복 로그/수집기 누수 수정, 미디어 미연결 안내 1회만 표시.",
+  "version": "1.8.44",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.8.44.apk",
+  "notes": "미러링(웹 대시보드) 추가 — 폰에서 웹서버를 켜고 테슬라 내장 브라우저로 접속하면 실시간 대시보드를 볼 수 있어요. 설정 > 미러링. 기존 클러스터는 그대로.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
