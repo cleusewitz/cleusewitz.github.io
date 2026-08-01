@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.2.apk",
-  "notes": "화면 캐스팅 진단 개선 — 실제 화면 해상도 정확히 잡고, 설정>로그(Cast)에 캡처 해상도·첫 프레임 송출 여부 기록. 검은화면 원인 파악용.",
+  "version": "1.9.3",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.3.apk",
+  "notes": "화면 캐스팅 검은화면 수정 — 캡처는 정상이었고(로그 확인), 브라우저가 MJPEG 스트림을 못 그리던 문제라 최신 JPEG 폴링 방식으로 변경(모든 브라우저 호환). 이제 화면이 떠요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
