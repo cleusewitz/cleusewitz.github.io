@@ -1,6 +1,6 @@
 {
-  "version": "1.0.56",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.56.apk",
-  "notes": "배당 화면 카카오페이 스타일 개편 — 올해 배당(받은+예정) 요약·12개월 막대 차트·월별 종목 내역(몇 주·1주당·언제). 연도 넘기기 지원.",
+  "version": "1.0.57",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.57.apk",
+  "notes": "앱 잠금(비밀번호)+가짜 비밀번호 추가, 달러·시세 조회를 설정으로 이동, 자산 수정 반영 개선.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
