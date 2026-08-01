@@ -1,6 +1,6 @@
 {
-  "version": "1.0.44",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.44.apk",
-  "notes": "홈 오늘/이번달 변동 오류 + UI 밀림 수정.",
+  "version": "1.0.45",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.45.apk",
+  "notes": "매수일 오늘/주말도 기록 시작(직전 거래일 종가).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
