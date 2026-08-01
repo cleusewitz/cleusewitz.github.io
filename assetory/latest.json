@@ -1,6 +1,6 @@
 {
-  "version": "1.0.40",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.40.apk",
-  "notes": "[v2-2] 분석 탭 가짜 카드 제거(실데이터만).",
+  "version": "1.0.41",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.41.apk",
+  "notes": "배당 기록 기능(총 수령·올해 배당).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
