@@ -1,6 +1,6 @@
 {
-  "version": "1.0.52",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.52.apk",
-  "notes": "탭 글자 폰트 통일.",
+  "version": "1.0.53",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.53.apk",
+  "notes": "예상 배당을 주/월 단위 일정으로(며칠에 얼마, 10건 이상) + 국내 ETF 실현 분배율(TTM)로 배당 추정.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
