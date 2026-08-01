@@ -1,6 +1,6 @@
 {
-  "version": "1.0.49",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.49.apk",
-  "notes": "예상배당 매수연도부터 + 기록 탭(자산 추이/배당).",
+  "version": "1.0.50",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.0.50.apk",
+  "notes": "배당 타임라인 UI + 공통 텍스트 컴포넌트(폰트 일관).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
