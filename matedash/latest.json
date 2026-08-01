@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.0.apk",
-  "notes": "v1.9 주행 기록 — 주행할 때마다 자동 기록(거리·시간·전비·사용 배터리), 설정 > 주행 기록에서 이번 달 요약(총 거리·전력·추정 비용)과 트립 목록 확인. TeslaMate 연결 기반.",
+  "version": "1.9.1",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.1.apk",
+  "notes": "화면 캐스팅(A안, 실험) — 설정 > 미러링 > '화면 캐스팅'을 켜면 화면 녹화 권한 후 폰 화면을 그대로 테슬라 브라우저(http://폰IP:8318)로 송출(보기 전용). 티맵 등 아무 앱 미러링 가능. 같은 와이파이/핫스팟 필요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
