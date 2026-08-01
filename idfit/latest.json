@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.0.6.apk",
-  "notes": "UI/UX 개선 — 빈 화면 안내 정리(사진 선택 전 가이드가 안내문 위로 겹치던 것 수정), 1장 미리보기 크기 정상화, 장수 조절 버튼 크게, 업데이트 배너에 닫기(✕) 추가.",
+  "version": "1.1.0",
+  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.1.0.apk",
+  "notes": "v1.1 배경색 선택 — 증명사진 배경을 흰색·파랑·회색·하늘색 중 선택(편집 화면 '배경'). 배경 제거 후 고른 색으로 합성돼요.",
   "htmlUrl": "https://cleusewitz.github.io/idfit/"
 }
