@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.1.0.apk",
-  "notes": "배당 v2 — 다가오는 배당 카드 + 실수령액(세후) 토글. (다음: 배당 푸시 알림·홈 위젯)",
+  "version": "1.1.1",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.1.1.apk",
+  "notes": "기록을 '전일 대비'로 — 누적 총수익률(홈에 있음) 대신 그날 전날 대비 얼마·몇 % 올랐/내렸는지 표시.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
