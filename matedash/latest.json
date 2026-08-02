@@ -1,6 +1,6 @@
 {
-  "version": "1.9.7",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.7.apk",
-  "notes": "화면 캐스팅 회전 반영 개선 — 일부 기기에서 회전 감지를 놓치던 문제 대비해 1초마다 화면 방향을 확인해 가로/세로를 확실히 따라가게 함.",
+  "version": "1.9.8",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.8.apk",
+  "notes": "화면 캐스팅 터치 제어 — 차 브라우저에서 탭·스와이프하면 폰이 실제로 조작돼요(내비 컨트롤 가능). 설정 > 미러링 > '접근성 설정 열기'로 'MateDash 터치 제어'를 켜면 활성화(루팅/PC 불필요).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
