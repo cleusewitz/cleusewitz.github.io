@@ -1,6 +1,6 @@
 {
-  "version": "1.9.13",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.13.apk",
-  "notes": "주차 후 자동 송풍 배터리 절약 — 목표온도를 현재 실내온도에 맞춰 냉·난방을 거의 안 하고 '송풍'만으로 에바 건조(기존엔 30°C라 히트펌프가 데워 배터리 소모). 배터리 최소.",
+  "version": "1.9.14",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.14.apk",
+  "notes": "주차 후 자동 송풍 조건 개선 — 5분 미만 짧은 주행은 에바가 안 젖으니 자동 송풍을 건너뜁니다(짧은 이동 배터리 낭비 방지). 5분 이상 주행 후에만 동작.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
