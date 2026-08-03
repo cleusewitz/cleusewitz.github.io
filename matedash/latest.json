@@ -1,6 +1,6 @@
 {
-  "version": "1.9.10",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.10.apk",
-  "notes": "차량 명령 VIN 오류 수정 — 'expected 17-character VIN' 뜰 때 설정 > Tesla Fleet API에서 VIN(17자)을 직접 입력하면 명령이 정상 전송돼요(Fleet API 한도 초과로 자동 조회가 막힐 때 사용).",
+  "version": "1.9.11",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.11.apk",
+  "notes": "업데이트 알림 개선 — 앱을 완전히 종료하지 않아도 백그라운드에서 돌아올 때마다 새 버전을 확인해 배너를 띄웁니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
