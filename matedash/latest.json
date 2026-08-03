@@ -1,6 +1,6 @@
 {
-  "version": "1.9.11",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.11.apk",
-  "notes": "업데이트 알림 개선 — 앱을 완전히 종료하지 않아도 백그라운드에서 돌아올 때마다 새 버전을 확인해 배너를 띄웁니다.",
+  "version": "1.9.12",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.12.apk",
+  "notes": "차량 명령 토큰만료 자동복구 — 'token expired (401)' 시 refresh 토큰으로 자동 갱신 후 재시도(재로그인 불필요). + 업데이트 배너를 앱 종료 없이 포그라운드 복귀마다 확인.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
