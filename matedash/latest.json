@@ -1,6 +1,6 @@
 {
-  "version": "1.9.8",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.8.apk",
-  "notes": "화면 캐스팅 터치 제어 — 차 브라우저에서 탭·스와이프하면 폰이 실제로 조작돼요(내비 컨트롤 가능). 설정 > 미러링 > '접근성 설정 열기'로 'MateDash 터치 제어'를 켜면 활성화(루팅/PC 불필요).",
+  "version": "1.9.9",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.9.apk",
+  "notes": "MQTT 로그 도배 수정 — 브로커/네트워크 불안정으로 재연결이 반복될 때 로그를 30초에 한 번만 요약 기록(도배 방지, 데이터 수신엔 영향 없음).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
