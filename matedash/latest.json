@@ -1,6 +1,6 @@
 {
-  "version": "1.9.9",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.9.apk",
-  "notes": "MQTT 로그 도배 수정 — 브로커/네트워크 불안정으로 재연결이 반복될 때 로그를 30초에 한 번만 요약 기록(도배 방지, 데이터 수신엔 영향 없음).",
+  "version": "1.9.10",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.10.apk",
+  "notes": "차량 명령 VIN 오류 수정 — 'expected 17-character VIN' 뜰 때 설정 > Tesla Fleet API에서 VIN(17자)을 직접 입력하면 명령이 정상 전송돼요(Fleet API 한도 초과로 자동 조회가 막힐 때 사용).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
