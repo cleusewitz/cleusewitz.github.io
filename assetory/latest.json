@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.1.4.apk",
-  "notes": "변화 원인 종목별 표시 — 그날 어떤 종목이 얼마 오르내렸는지(삼성전자 +12,000 등) 상위 6종목+기타로 정리.",
+  "version": "1.1.5",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.1.5.apk",
+  "notes": "새 앱 아이콘 — 파란 그라데이션 + 상승 막대 차트(자산 성장) 디자인으로 교체.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
