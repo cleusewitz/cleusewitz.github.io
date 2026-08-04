@@ -1,6 +1,6 @@
 {
-  "version": "1.9.14",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.14.apk",
-  "notes": "주차 후 자동 송풍 조건 개선 — 5분 미만 짧은 주행은 에바가 안 젖으니 자동 송풍을 건너뜁니다(짧은 이동 배터리 낭비 방지). 5분 이상 주행 후에만 동작.",
+  "version": "1.9.15",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.15.apk",
+  "notes": "송풍 후 온도 복원 — 주차 후 자동 송풍이 끝나면 에어컨 목표온도를 21.5°C로 되돌려놔, 다음에 공조 켤 때 HI로 뜨지 않게 했어요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
