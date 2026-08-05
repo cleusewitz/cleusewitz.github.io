@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.1.6.apk",
-  "notes": "변화 원인 — 긴 종목명은 티커로 표시(JPMorgan… ETF → JEPQ), 금액 세로 깨짐 수정.",
+  "version": "1.1.7",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.1.7.apk",
+  "notes": "배당탭 로딩 개선(병렬 조회+캐시 저장, 불러오는 중 표시) + 미국 배당 날짜 지급일 기준 정정.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
