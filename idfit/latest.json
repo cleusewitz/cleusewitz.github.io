@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.1.0.apk",
-  "notes": "v1.1 배경색 선택 — 증명사진 배경을 흰색·파랑·회색·하늘색 중 선택(편집 화면 '배경'). 배경 제거 후 고른 색으로 합성돼요.",
+  "version": "1.2.0",
+  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.2.0.apk",
+  "notes": "v1.2 배경 제거 모델 선택 — 편집 화면 '모델'에서 정밀(Subject)/인물(Selfie) 중 골라 누끼 품질을 비교할 수 있어요.",
   "htmlUrl": "https://cleusewitz.github.io/idfit/"
 }
