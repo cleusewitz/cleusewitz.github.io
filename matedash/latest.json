@@ -1,6 +1,6 @@
 {
-  "version": "1.9.15",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.15.apk",
-  "notes": "송풍 후 온도 복원 — 주차 후 자동 송풍이 끝나면 에어컨 목표온도를 21.5°C로 되돌려놔, 다음에 공조 켤 때 HI로 뜨지 않게 했어요.",
+  "version": "1.9.16",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.16.apk",
+  "notes": "화면 캐스팅 안정화 — 차량/시스템에서 캐스팅을 중지해도 앱 상태가 정상으로 리셋돼요(다시 켜기 가능, 포트 누수 방지).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
