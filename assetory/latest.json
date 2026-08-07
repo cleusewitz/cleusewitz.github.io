@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.1.8.apk",
-  "notes": "배당탭 안정화 — 배당 기록 날짜를 '2026-7-5'처럼 입력해도 자동 정리하고, 잘못된 날짜로 배당/기록 탭이 튕기던 문제를 수정했어요.",
+  "version": "1.1.9",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.1.9.apk",
+  "notes": "배당이 안 뜨던 문제 수정 — 일시적 조회 실패로 빈 값이 하루 종일 캐시돼 배당이 안 보이던 것을, 데이터 없는 종목은 다시 불러오도록 고쳤어요(새로고침하면 채워짐).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
