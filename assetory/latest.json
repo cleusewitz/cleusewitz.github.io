@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.1.7.apk",
-  "notes": "배당탭 로딩 개선(병렬 조회+캐시 저장, 불러오는 중 표시) + 미국 배당 날짜 지급일 기준 정정.",
+  "version": "1.1.8",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.1.8.apk",
+  "notes": "배당탭 안정화 — 배당 기록 날짜를 '2026-7-5'처럼 입력해도 자동 정리하고, 잘못된 날짜로 배당/기록 탭이 튕기던 문제를 수정했어요.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
