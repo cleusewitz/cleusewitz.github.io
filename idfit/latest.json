@@ -1,6 +1,6 @@
 {
-  "version": "1.3.3",
-  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.3.3.apk",
-  "notes": "사진이 살짝 눌려 보이던(가로 찌그러짐) 문제 수정 — 크롭 비율을 출력(3:4)에 맞춰 왜곡 없이 나오게 했어요.",
+  "version": "1.3.4",
+  "apkUrl": "https://cleusewitz.github.io/idfit/IDFit-1.3.4.apk",
+  "notes": "증명 사진 흰 여백 정리 — 증명은 여백을 자연스럽게 줄이고, 크롭이 원본보다 커서 흰 띠가 생기던 것도 막았어요(여권은 그대로 얼굴 크게).",
   "htmlUrl": "https://cleusewitz.github.io/idfit/"
 }
