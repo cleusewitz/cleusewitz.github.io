@@ -1,6 +1,6 @@
 {
-  "version": "1.9.17",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.17.apk",
-  "notes": "주행 탭에 월 달력 추가 — 날짜를 누르면 그날 주행만 필터해서 보여줘요. 월 총거리·주행일수 요약도.",
+  "version": "1.9.18",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.18.apk",
+  "notes": "하단 '주행' 탭에 월 달력 추가 — 날짜를 누르면 그날 주행만 필터해서 보여줘요(실제 주행 이력 기준). 월 총거리·주행일수 요약도.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
