@@ -1,6 +1,6 @@
 {
-  "version": "1.9.16",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.16.apk",
-  "notes": "화면 캐스팅 안정화 — 차량/시스템에서 캐스팅을 중지해도 앱 상태가 정상으로 리셋돼요(다시 켜기 가능, 포트 누수 방지).",
+  "version": "1.9.17",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.17.apk",
+  "notes": "주행 탭에 월 달력 추가 — 날짜를 누르면 그날 주행만 필터해서 보여줘요. 월 총거리·주행일수 요약도.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
