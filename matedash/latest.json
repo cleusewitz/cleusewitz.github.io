@@ -1,6 +1,6 @@
 {
-  "version": "1.9.19",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.19.apk",
-  "notes": "(프리뷰) 설정→주행 기록에 주행+충전 합친 달력 — 날짜별로 주행·충전 함께 표시. 하단 탭 반영 여부는 확인 후 결정.",
+  "version": "1.9.20",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.20.apk",
+  "notes": "달력 날짜 칸 높이 정렬 수정 — 주행/충전 마커 유무와 상관없이 모든 칸 높이가 같아 줄이 안 밀려요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
