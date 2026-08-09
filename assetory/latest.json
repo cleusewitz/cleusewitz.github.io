@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.4.0.apk",
-  "notes": "자산 추이·배당 그래프를 Vico 차트로 교체(축·터치·애니메이션 개선).",
+  "version": "1.4.1",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.4.1.apk",
+  "notes": "차트 크래시 수정 — Vico 도입 후 튕기던 문제로 안정적인 기존 그래프로 되돌렸어요(축·라벨·터치 유지).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
