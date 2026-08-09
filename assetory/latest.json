@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.3.1.apk",
-  "notes": "국내 시세를 한국투자(KIS) 실시간으로 갱신(실패 시 네이버 자동 대체).",
+  "version": "1.4.0",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.4.0.apk",
+  "notes": "자산 추이·배당 그래프를 Vico 차트로 교체(축·터치·애니메이션 개선).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
