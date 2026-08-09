@@ -1,6 +1,6 @@
 {
-  "version": "1.9.20",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.20.apk",
-  "notes": "달력 날짜 칸 높이 정렬 수정 — 주행/충전 마커 유무와 상관없이 모든 칸 높이가 같아 줄이 안 밀려요.",
+  "version": "1.9.21",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.21.apk",
+  "notes": "주행 완료 시 이력 자동 갱신 — 앱을 켜둔 채 주행이 끝나면 잠시 뒤 주행(·충전) 이력이 자동으로 새로고침돼요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
