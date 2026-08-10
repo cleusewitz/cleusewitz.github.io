@@ -1,6 +1,6 @@
 {
-  "version": "1.9.30",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.30.apk",
-  "notes": "월 집계를 한 줄로 — 주행 4지표(횟수·총거리·총시간·평균속도)를 한 줄에 맞춰 정렬(총시간도 한 줄).",
+  "version": "1.9.31",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.31.apk",
+  "notes": "월 집계 정리 — 평균속도 빼고 주행(횟수·총거리·총시간·평균전비)을 한 줄, 왼쪽 정렬로 깔끔하게.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
