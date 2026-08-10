@@ -1,6 +1,6 @@
 {
-  "version": "1.9.27",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.27.apk",
-  "notes": "하단 주행 탭에 새 달력 적용 — 주행+충전 마커, 날짜 재탭으로 일별↔월별. 날짜 선택 시 그날 주행 목록/월별 집계.",
+  "version": "1.9.28",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.28.apk",
+  "notes": "주행 탭에 충전 카드도 함께 — 날짜/월별 목록에 주행과 충전을 시간순으로 같이 보여줘요(충전은 충전 탭과 동일 카드).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
