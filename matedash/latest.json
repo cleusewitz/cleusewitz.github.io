@@ -1,6 +1,6 @@
 {
-  "version": "1.9.26",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.26.apk",
-  "notes": "주행기록 프리뷰: 월별(전체 선택)에서 날짜를 누르면 그 날짜가 선택돼요(보던 달 유지, 다른 달로 안 넘어감).",
+  "version": "1.9.27",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.27.apk",
+  "notes": "하단 주행 탭에 새 달력 적용 — 주행+충전 마커, 날짜 재탭으로 일별↔월별. 날짜 선택 시 그날 주행 목록/월별 집계.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
