@@ -1,6 +1,6 @@
 {
-  "version": "1.9.25",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.25.apk",
-  "notes": "주행기록 프리뷰: 토글 대신 달력 탭으로 일별↔월별 — 선택한 날짜를 한 번 더 누르면 그 달 전체, 월별에서 날짜를 누르면 다시 오늘(일별).",
+  "version": "1.9.26",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.26.apk",
+  "notes": "주행기록 프리뷰: 월별(전체 선택)에서 날짜를 누르면 그 날짜가 선택돼요(보던 달 유지, 다른 달로 안 넘어감).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
