@@ -1,6 +1,6 @@
 {
-  "version": "1.9.21",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.21.apk",
-  "notes": "주행 완료 시 이력 자동 갱신 — 앱을 켜둔 채 주행이 끝나면 잠시 뒤 주행(·충전) 이력이 자동으로 새로고침돼요.",
+  "version": "1.9.22",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.22.apk",
+  "notes": "하단 '트립' 탭 추가 — '만들기'로 기간·모듈(주행·충전·전비)을 골라 나만의 트립 리포트를 구성/저장할 수 있어요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
