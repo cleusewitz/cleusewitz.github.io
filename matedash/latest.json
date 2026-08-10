@@ -1,6 +1,6 @@
 {
-  "version": "1.9.22",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.22.apk",
-  "notes": "하단 '트립' 탭 추가 — '만들기'로 기간·모듈(주행·충전·전비)을 골라 나만의 트립 리포트를 구성/저장할 수 있어요.",
+  "version": "1.9.23",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.23.apk",
+  "notes": "주행기록 프리뷰 달력 정렬 — 날짜·거리·충전 마커를 칸 위쪽에서 같은 위치로 정렬(top 정렬).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
