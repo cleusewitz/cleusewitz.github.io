@@ -1,6 +1,6 @@
 {
-  "version": "1.9.24",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.24.apk",
-  "notes": "주행기록 프리뷰에 일별/월별 보기 토글 추가 — 월별은 그 달 전체 주행·충전·전비 집계와 목록을 보여줘요.",
+  "version": "1.9.25",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.25.apk",
+  "notes": "주행기록 프리뷰: 토글 대신 달력 탭으로 일별↔월별 — 선택한 날짜를 한 번 더 누르면 그 달 전체, 월별에서 날짜를 누르면 다시 오늘(일별).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
