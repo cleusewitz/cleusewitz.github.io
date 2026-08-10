@@ -1,6 +1,6 @@
 {
-  "version": "1.9.33",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.33.apk",
-  "notes": "일 집계도 월 집계와 동일한 카드로 통일 — 충전은 그날 충전이 있을 때만 표시.",
+  "version": "1.9.34",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.34.apk",
+  "notes": "하단 '주행' 탭을 '기록'으로 이름 변경 + 달력 헤더의 연·월을 눌러 팝업으로 바로 이동(충전 탭과 동일한 방식).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
