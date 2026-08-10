@@ -1,6 +1,6 @@
 {
-  "version": "1.9.28",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.28.apk",
-  "notes": "주행 탭에 충전 카드도 함께 — 날짜/월별 목록에 주행과 충전을 시간순으로 같이 보여줘요(충전은 충전 탭과 동일 카드).",
+  "version": "1.9.29",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.29.apk",
+  "notes": "월 집계 카드 정렬 — 총시간이 두 줄로 접혀 어긋나던 것을 2열 그리드로 바꿔 값이 한 줄로 깔끔하게 정렬돼요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
