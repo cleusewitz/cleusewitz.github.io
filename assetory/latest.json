@@ -1,1 +1,1 @@
-{"version":"1.5.5","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.5.apk","notes":"토스에서 가져온 종목이 자산추이(기록) 합계에 안 잡히던 문제 수정(매수일=가져온 날 기록, 자산 총액과 일치).","htmlUrl":"https://cleusewitz.github.io/assetory/"}
+{"version":"1.5.6","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.6.apk","notes":"토스 가져온 종목 매수일을 2026-08-01로 통일(가져오기 누르면 기존 종목도 변경).","htmlUrl":"https://cleusewitz.github.io/assetory/"}
