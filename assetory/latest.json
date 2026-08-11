@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.5.1.apk",
-  "notes": "자산 탭 실시간 갱신 표시 추가(현재가 자동 갱신 시각 표기).",
+  "version": "1.5.2",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.5.2.apk",
+  "notes": "토스 보유종목 가져오기 — 자산 탭에서 토스 계좌 보유 주식을 자산에 자동 추가(없는 종목만).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
