@@ -1,6 +1,1 @@
-{
-  "version": "1.5.2",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.5.2.apk",
-  "notes": "토스 보유종목 가져오기 — 자산 탭에서 토스 계좌 보유 주식을 자산에 자동 추가(없는 종목만).",
-  "htmlUrl": "https://cleusewitz.github.io/assetory/"
-}
+{"version":"1.5.3","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.3.apk","notes":"토스 가져오기 개선 — 다른 그룹에 있는 종목도 토스 그룹에 함께 추가(중복 허용), 재실행 시 토스 그룹 내 중복 방지.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
