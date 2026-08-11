@@ -1,6 +1,6 @@
 {
-  "version": "1.9.34",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.34.apk",
-  "notes": "하단 '주행' 탭을 '기록'으로 이름 변경 + 달력 헤더의 연·월을 눌러 팝업으로 바로 이동(충전 탭과 동일한 방식).",
+  "version": "1.9.35",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.35.apk",
+  "notes": "하단 '충전' 탭 제거 — 충전 내역은 '기록' 탭에서 함께 확인해요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
