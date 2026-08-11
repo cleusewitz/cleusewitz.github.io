@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.4.2.apk",
-  "notes": "자산 탭 실시간 갱신 — 보유 종목 현재가 5초마다 자동 갱신(탭 볼 때만).",
+  "version": "1.5.0",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.5.0.apk",
+  "notes": "토스증권 실시간 시세 연동 — 국내·해외 현재가를 토스로(자산 탭 5초 갱신), 실패 시 기존 시세 폴백.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
