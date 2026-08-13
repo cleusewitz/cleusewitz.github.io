@@ -1,1 +1,1 @@
-{"version":"1.5.8","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.8.apk","notes":"홈·자산추이(기록) 금액을 자산 탭 총액과 정확히 일치하도록 수정(매수일 없는 자산 누락·환율 기준 차이로 인한 오차 제거).","htmlUrl":"https://cleusewitz.github.io/assetory/"}
+{"version":"1.5.9","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.9.apk","notes":"기록 탭 전일 대비 수익률·변동금액에서 매수 원금 제외 — 순수 시세 변동분만 표시.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
