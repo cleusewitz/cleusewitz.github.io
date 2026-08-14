@@ -1,1 +1,1 @@
-{"version":"1.5.13","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.13.apk","notes":"기록 탭 월별 합계에서 시작일 매수 원금이 마이너스로 잡히던 문제 수정 — 그룹을 골라도 합계가 시세 변동만 반영됩니다.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
+{"version":"1.5.14","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.14.apk","notes":"기록 탭 월별 합계를 월 단위로 직접 계산 — 월말 총액 − 전월말 총액 − 그 달 매수 원금. '변동만 보기' 필터와 무관하게 항상 같은 값이 나옵니다.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
