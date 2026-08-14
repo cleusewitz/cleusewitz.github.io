@@ -1,1 +1,1 @@
-{"version":"1.5.12","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.12.apk","notes":"기록 탭 레이아웃 여백 개선 — 제목·금액·그룹 칩·월별 목록 사이 간격을 정리해 더 깔끔하게 보여요.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
+{"version":"1.5.13","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.13.apk","notes":"기록 탭 월별 합계에서 시작일 매수 원금이 마이너스로 잡히던 문제 수정 — 그룹을 골라도 합계가 시세 변동만 반영됩니다.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
