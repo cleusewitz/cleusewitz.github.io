@@ -1,1 +1,1 @@
-{"version":"1.5.14","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.14.apk","notes":"기록 탭 월별 합계를 월 단위로 직접 계산 — 월말 총액 − 전월말 총액 − 그 달 매수 원금. '변동만 보기' 필터와 무관하게 항상 같은 값이 나옵니다.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
+{"version":"1.5.15","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.15.apk","notes":"토스 가져오기가 실제 체결 내역으로 매수일과 분할매수를 복원합니다 — 자산 추이가 2023년부터의 진짜 기록으로 다시 그려집니다. 매도가 있던 종목도 선입선출로 남은 수량만 반영하고, 원금은 토스 평단 기준에 맞춥니다.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
