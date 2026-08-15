@@ -1,6 +1,6 @@
 {
-  "version": "1.9.36",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.36.apk",
-  "notes": "자동화 탭 추가 — 탑승·출발·주행·주차·충전 상황을 감지해 음성 안내나 차량 제어를 자동 실행합니다. 내장 안내 6종 + 추천 자동화 10종, 조건(온도·배터리·시간대·요일)과 동작을 직접 조합해 나만의 룰도 만들 수 있어요.",
+  "version": "1.9.37",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.37.apk",
+  "notes": "자동화 탭에 AI 음성 안내 추가 — Gemini API 키를 넣으면 시간·온도·배터리·주행시간 같은 상황에 맞춰 매번 새로운 멘트를 만들어 읽어줍니다. 키가 없거나 실패하면 기존 고정 멘트로 그대로 안내하고, 같은 상황은 캐시해 호출을 아낍니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
