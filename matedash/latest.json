@@ -1,6 +1,6 @@
 {
-  "version": "1.9.35",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.35.apk",
-  "notes": "하단 '충전' 탭 제거 — 충전 내역은 '기록' 탭에서 함께 확인해요.",
+  "version": "1.9.36",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.36.apk",
+  "notes": "자동화 탭 추가 — 탑승·출발·주행·주차·충전 상황을 감지해 음성 안내나 차량 제어를 자동 실행합니다. 내장 안내 6종 + 추천 자동화 10종, 조건(온도·배터리·시간대·요일)과 동작을 직접 조합해 나만의 룰도 만들 수 있어요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
