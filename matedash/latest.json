@@ -1,6 +1,6 @@
 {
-  "version": "1.9.42",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.42.apk",
-  "notes": "AI 보이스 추가 — 자동화 > 음성 안내 설정에서 Gemini 음성 30종(Erinome·Callirrhoe·Sulafat 등) 중에 고르면 그 목소리로 안내합니다. 고를 때 바로 미리 들려주고, 합성이 안 되면 기기 기본 음성으로 안내해요. Gemini API 키가 필요합니다.",
+  "version": "1.9.43",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.43.apk",
+  "notes": "음성 설정을 한 화면으로 정리했습니다 — 목소리 목록 하나에서 기기 음성과 AI 보이스(Gemini)를 함께 고르고, 호칭·속도·API 키·AI 멘트까지 같은 화면에서 설정합니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
