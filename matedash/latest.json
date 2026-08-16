@@ -1,6 +1,6 @@
 {
-  "version": "1.9.45",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.45.apk",
-  "notes": "Tesla API 화면 정리 — 마지막 제어 버튼이 하단 탭에 가리던 문제를 고쳤습니다. 명령이 실패하면 테슬라 원문 대신 무엇을 해야 하는지(서명 프록시 미설정·VIN 없음 등) 알려주고, 차량 제어 위에 프록시·VIN 상태를 표시합니다.",
+  "version": "1.9.46",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.46.apk",
+  "notes": "차량이 절전 중일 때 뜨던 영어 오류(408 vehicle unavailable)를 'Wake Up을 먼저 눌러주세요' 안내로 바꿨습니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
