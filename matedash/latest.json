@@ -1,6 +1,6 @@
 {
-  "version": "1.9.47",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.47.apk",
-  "notes": "차량이 절전 모드라 명령을 거부하면 자동으로 깨운 뒤 다시 시도합니다. 화면 버튼과 자동화가 같은 복구 흐름(VIN 채우기·토큰 갱신·절전 깨우기)을 쓰도록 통합했어요.",
+  "version": "1.9.48",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.48.apk",
+  "notes": "차량 깨우기 판정 버그를 고쳤습니다 — 절전 모드로 거부된 명령을 이제 실제로 깨운 뒤 최대 3번(6·8·10초 간격) 다시 시도합니다. 설정에서 Tesla API 화면을 열 때 닫기 버튼이 제목과 겹치던 것도 수정했어요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
