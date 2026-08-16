@@ -1,6 +1,6 @@
 {
-  "version": "1.9.46",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.46.apk",
-  "notes": "차량이 절전 중일 때 뜨던 영어 오류(408 vehicle unavailable)를 'Wake Up을 먼저 눌러주세요' 안내로 바꿨습니다.",
+  "version": "1.9.47",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.47.apk",
+  "notes": "차량이 절전 모드라 명령을 거부하면 자동으로 깨운 뒤 다시 시도합니다. 화면 버튼과 자동화가 같은 복구 흐름(VIN 채우기·토큰 갱신·절전 깨우기)을 쓰도록 통합했어요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
