@@ -1,6 +1,6 @@
 {
-  "version": "1.9.48",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.48.apk",
-  "notes": "차량 깨우기 판정 버그를 고쳤습니다 — 절전 모드로 거부된 명령을 이제 실제로 깨운 뒤 최대 3번(6·8·10초 간격) 다시 시도합니다. 설정에서 Tesla API 화면을 열 때 닫기 버튼이 제목과 겹치던 것도 수정했어요.",
+  "version": "1.9.49",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.49.apk",
+  "notes": "문만 여닫아도 탑승 인사가 나오던 문제를 고쳤습니다 — 실제 탑승 신호를 우선 사용하고, 한 번 인사하면 운행이 끝나기 전까지 반복하지 않습니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
