@@ -1,6 +1,6 @@
 {
-  "version": "1.9.56",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.56.apk",
-  "notes": "TeslaMate 없이도 바로 쓸 수 있습니다 — [텔레메트리 등록]만 누르면 서버 주소와 접속 정보가 자동으로 설정됩니다. 운전석 착석·센트리·창문·타이어 공기압·목적지·재생 중인 음악까지 받아옵니다.",
+  "version": "1.9.57",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.57.apk",
+  "notes": "기록 탭에서 앱이 직접 기록한 주행을 볼 수 있습니다 — TeslaMate가 없어도 주행이 끝날 때마다 거리·시간·최고속도·배터리 사용량이 쌓입니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
