@@ -1,6 +1,6 @@
 {
-  "version": "1.9.52",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.52.apk",
-  "notes": "텔레메트리 등록 실패 원인을 설정 > 로그에서 확인할 수 있게 진단 기록을 추가했습니다.",
+  "version": "1.9.53",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.53.apk",
+  "notes": "TeslaMate 없이 Tesla API만 쓸 때 주행 중 갱신이 30초에서 10초로 빨라집니다. (Fleet API 사용량을 더 쓰므로, 실시간이 필요하면 텔레메트리 등록을 권장)",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
