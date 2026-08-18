@@ -1,6 +1,6 @@
 {
-  "version": "1.9.54",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.54.apk",
-  "notes": "실시간 텔레메트리 수신 — 차량이 나스로 직접 보내는 속도·기어·위치·배터리를 앱이 받아 화면에 반영합니다. MQTT 계정을 설정에 입력해야 동작합니다.",
+  "version": "1.9.55",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.55.apk",
+  "notes": "주행 원본 데이터를 폰에 보관합니다 — 차량이 보낸 값을 가공 없이 저장해 두어, 나중에 어떤 기록·통계 화면을 만들어도 과거까지 다시 그릴 수 있습니다. 받는 항목도 크게 늘렸고(충전·공조·창문·타이어·목적지·미디어), 앱이 꺼져 있던 동안의 데이터도 재접속 시 받아옵니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
