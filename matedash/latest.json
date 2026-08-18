@@ -1,6 +1,6 @@
 {
-  "version": "1.9.53",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.53.apk",
-  "notes": "TeslaMate 없이 Tesla API만 쓸 때 주행 중 갱신이 30초에서 10초로 빨라집니다. (Fleet API 사용량을 더 쓰므로, 실시간이 필요하면 텔레메트리 등록을 권장)",
+  "version": "1.9.54",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.54.apk",
+  "notes": "실시간 텔레메트리 수신 — 차량이 나스로 직접 보내는 속도·기어·위치·배터리를 앱이 받아 화면에 반영합니다. MQTT 계정을 설정에 입력해야 동작합니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
