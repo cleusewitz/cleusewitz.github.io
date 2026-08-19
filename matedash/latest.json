@@ -1,6 +1,6 @@
 {
-  "version": "1.9.60",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.60.apk",
-  "notes": "블루투스 연결 온보딩 6단계 추가 (VIN 입력 → 차량 확인 → 권한 → 차량 검색 → 앱 키 등록 → 완료). 실제 BLE 스캔으로 근처 테슬라를 찾고 VIN이 일치하는 내 차만 골라줍니다. 앱 키 등록 요청 전송은 다음 버전 예정.",
+  "version": "1.9.61",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.61.apk",
+  "notes": "로그인·온보딩 화면 여백 정리 — 상하좌우 패딩과 단계 간 간격을 줄여 한 화면에 더 많이 보이게 했습니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
