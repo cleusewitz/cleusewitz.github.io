@@ -1,6 +1,6 @@
 {
-  "version": "1.9.61",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.61.apk",
-  "notes": "로그인·온보딩 화면 여백 정리 — 상하좌우 패딩과 단계 간 간격을 줄여 한 화면에 더 많이 보이게 했습니다.",
+  "version": "1.9.62",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.62.apk",
+  "notes": "블루투스 차량 검색 개선 — 서비스 UUID 필터를 걷어내고 차량 이름(VIN 해시)으로 직접 찾습니다. 스캔 화면에 [주변 기기 모두 보기] 진단 목록 추가. 데모 모드의 가짜 주행이 기록 탭에 2분마다 쌓이던 문제 수정, 기록 길게 눌러 선택 삭제 추가.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
