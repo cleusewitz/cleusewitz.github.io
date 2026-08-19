@@ -1,6 +1,6 @@
 {
-  "version": "1.9.63",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.63.apk",
-  "notes": "로그인 화면 여백을 한 번 더 줄였습니다 — 좌우·상단 패딩과 카드 간격을 좁혀 한 화면에 더 많이 들어옵니다.",
+  "version": "1.9.64",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.64.apk",
+  "notes": "로그인·온보딩 화면 좌우 여백 제거 — 화면 가장자리 제스처 영역까지 피하느라 생기던 큰 좌우 공백을 없앴습니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
