@@ -1,1 +1,1 @@
-{"version":"1.5.16","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.16.apk","notes":"토스 가져오기에 예수금 추가 — 원화·달러 예수금이 '토스' 그룹 자산으로 들어가 총자산에 반영됩니다. 주문가능금액 기준이라 미체결 주문이 있으면 그만큼 적게 잡혀요.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
+{"version":"1.5.17","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.17.apk","notes":"토스 가져오기가 이미 있는 종목의 수량·평단도 갱신합니다 — 예전엔 건너뛰어 매수·매도가 반영되지 않았어요. 토스에 없는 종목은 지우지 않고 알려만 줍니다.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
