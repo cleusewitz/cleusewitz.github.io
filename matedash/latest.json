@@ -1,6 +1,6 @@
 {
-  "version": "1.9.58",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.58.apk",
-  "notes": "앱 자체 주행 기록도 기존 기록 탭과 같은 달력·카드 화면으로 봅니다 — 날짜를 누르면 그 날 주행이, 한 번 더 누르면 월별 전체가 보입니다.",
+  "version": "1.9.59",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.59.apk",
+  "notes": "연결 없이 앱을 둘러볼 수 있는 데모 모드가 생겼습니다 — 가짜 주행 데이터로 모든 화면을 확인할 수 있고 차량 인증도 통과한 것으로 표시됩니다. 첫 화면은 블루투스 연결 중심으로 정리했고, TeslaMate 연결은 설정으로 옮겼습니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
