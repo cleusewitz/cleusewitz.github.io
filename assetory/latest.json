@@ -1,1 +1,1 @@
-{"version":"1.5.15","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.15.apk","notes":"토스 가져오기가 실제 체결 내역으로 매수일과 분할매수를 복원합니다 — 자산 추이가 2023년부터의 진짜 기록으로 다시 그려집니다. 매도가 있던 종목도 선입선출로 남은 수량만 반영하고, 원금은 토스 평단 기준에 맞춥니다.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
+{"version":"1.5.16","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.16.apk","notes":"토스 가져오기에 예수금 추가 — 원화·달러 예수금이 '토스' 그룹 자산으로 들어가 총자산에 반영됩니다. 주문가능금액 기준이라 미체결 주문이 있으면 그만큼 적게 잡혀요.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
