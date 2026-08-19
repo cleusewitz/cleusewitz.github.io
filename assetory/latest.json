@@ -1,1 +1,1 @@
-{"version":"1.5.18","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.18.apk","notes":"기록 상세의 '변화 원인'에서 환율 효과를 분리했습니다 — 달러 자산이 주가는 그대로인데 환율로 움직인 부분이 이제 '환율' 줄로 따로 보입니다.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
+{"version":"1.5.19","apkUrl":"https://cleusewitz.github.io/assetory/Assetory-1.5.19.apk","notes":"장이 열리기 전인데 종목이 오른 것처럼 보이던 문제 수정 — 오래된 현재가를 '오늘 가격'으로 쓰지 않고 가장 최근 종가를 쓰도록 바로잡았습니다.","htmlUrl":"https://cleusewitz.github.io/assetory/"}
