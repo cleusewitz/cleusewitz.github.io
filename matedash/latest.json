@@ -1,6 +1,6 @@
 {
-  "version": "1.9.59",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.59.apk",
-  "notes": "연결 없이 앱을 둘러볼 수 있는 데모 모드가 생겼습니다 — 가짜 주행 데이터로 모든 화면을 확인할 수 있고 차량 인증도 통과한 것으로 표시됩니다. 첫 화면은 블루투스 연결 중심으로 정리했고, TeslaMate 연결은 설정으로 옮겼습니다.",
+  "version": "1.9.60",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.60.apk",
+  "notes": "블루투스 연결 온보딩 6단계 추가 (VIN 입력 → 차량 확인 → 권한 → 차량 검색 → 앱 키 등록 → 완료). 실제 BLE 스캔으로 근처 테슬라를 찾고 VIN이 일치하는 내 차만 골라줍니다. 앱 키 등록 요청 전송은 다음 버전 예정.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
