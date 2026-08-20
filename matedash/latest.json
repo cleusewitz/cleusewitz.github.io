@@ -1,6 +1,6 @@
 {
-  "version": "1.9.69",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.69.apk",
-  "notes": "차량을 찾은 뒤 실제로 연결까지 합니다 — 통신 채널(GATT)을 열고 테슬라 서비스·특성을 확인해 '차량과 통신 채널 열림'을 표시합니다. 앱 키 등록과 데이터 읽기는 다음 단계입니다.",
+  "version": "1.9.70",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.70.apk",
+  "notes": "앱 키 등록 요청을 차에 직접 보냅니다 — 5단계에서 [차에 등록 요청 보내기]를 누르면 폰에서 만든 키를 차량에 등록 요청하고, 차량 화면 확인 후 키카드를 태그하면 등록됩니다. 키는 폰 안에서만 만들어지고 밖으로 나가지 않습니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
