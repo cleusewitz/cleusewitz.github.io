@@ -1,6 +1,6 @@
 {
-  "version": "1.9.66",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.66.apk",
-  "notes": "블루투스 검색이 BLE 5 확장 광고도 받도록 바꿨습니다 — 기본 설정으로는 구형(4.2) 광고만 잡혀서 차량이 아예 목록에 안 뜰 수 있었습니다. 진단 목록에 기기별 서비스 UUID도 함께 표시합니다.",
+  "version": "1.9.67",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.67.apk",
+  "notes": "주행 리포트 추가 — 기록 탭에서 주행마다 전비 점수와 등급(A+~D)을 매기고, 이번 달 평균 점수와 '주차 중 배터리 소모(%/일)'를 함께 보여줍니다. 이미 쌓인 주행 기록만으로 계산해 추가 권한이나 서버가 필요 없습니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
