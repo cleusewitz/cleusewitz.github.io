@@ -1,6 +1,6 @@
 {
-  "version": "1.9.72",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.72.apk",
-  "notes": "차량 응답을 그대로 풀어서 보여줍니다 — 앱 키 등록이 왜 안 됐는지(키카드 태그 대기·시간 초과·이미 등록된 키 등)를 차량이 준 코드 그대로 한국어로 표시하고, [등록 확인]은 차에 등록된 키 개수를 알려줍니다.",
+  "version": "1.9.73",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.73.apk",
+  "notes": "[등록 확인]이 내 키인지까지 판정합니다 — 차량이 준 키 목록과 폰 키의 지문을 대조해 '내 키가 차에 등록돼 있어요'인지, 아직 없는지를 확정해서 보여줍니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
