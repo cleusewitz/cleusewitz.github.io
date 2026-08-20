@@ -1,6 +1,6 @@
 {
-  "version": "1.9.68",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.68.apk",
-  "notes": "블루투스 차량 검색 재시도 — 이름·서비스 UUID로 시스템에 직접 필터를 거는 두 번째 스캔을 함께 돌립니다. 위치 권한도 다시 받습니다(없으면 안드로이드가 스캔 결과에서 기기 이름을 지워서 차를 못 찾습니다).",
+  "version": "1.9.69",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.69.apk",
+  "notes": "차량을 찾은 뒤 실제로 연결까지 합니다 — 통신 채널(GATT)을 열고 테슬라 서비스·특성을 확인해 '차량과 통신 채널 열림'을 표시합니다. 앱 키 등록과 데이터 읽기는 다음 단계입니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
