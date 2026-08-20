@@ -1,6 +1,6 @@
 {
-  "version": "1.9.64",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.64.apk",
-  "notes": "로그인·온보딩 화면 좌우 여백 제거 — 화면 가장자리 제스처 영역까지 피하느라 생기던 큰 좌우 공백을 없앴습니다.",
+  "version": "1.9.65",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.65.apk",
+  "notes": "블루투스 차량 검색 진단 강화 — 스캔 필터 방식을 바꾸고, 주변에서 잡히는 기기 수와 스캔 실패 사유를 화면에 바로 보여줍니다. 검색 시간도 20초로 늘렸습니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
