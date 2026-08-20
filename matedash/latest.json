@@ -1,6 +1,6 @@
 {
-  "version": "1.9.67",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.67.apk",
-  "notes": "주행 리포트 추가 — 기록 탭에서 주행마다 전비 점수와 등급(A+~D)을 매기고, 이번 달 평균 점수와 '주차 중 배터리 소모(%/일)'를 함께 보여줍니다. 이미 쌓인 주행 기록만으로 계산해 추가 권한이나 서버가 필요 없습니다.",
+  "version": "1.9.68",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.68.apk",
+  "notes": "블루투스 차량 검색 재시도 — 이름·서비스 UUID로 시스템에 직접 필터를 거는 두 번째 스캔을 함께 돌립니다. 위치 권한도 다시 받습니다(없으면 안드로이드가 스캔 결과에서 기기 이름을 지워서 차를 못 찾습니다).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
