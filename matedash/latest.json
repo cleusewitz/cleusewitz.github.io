@@ -1,6 +1,6 @@
 {
-  "version": "1.9.70",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.70.apk",
-  "notes": "앱 키 등록 요청을 차에 직접 보냅니다 — 5단계에서 [차에 등록 요청 보내기]를 누르면 폰에서 만든 키를 차량에 등록 요청하고, 차량 화면 확인 후 키카드를 태그하면 등록됩니다. 키는 폰 안에서만 만들어지고 밖으로 나가지 않습니다.",
+  "version": "1.9.71",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.71.apk",
+  "notes": "앱 키가 실제로 등록됐는지 차에 물어볼 수 있습니다 — 5단계의 [등록 확인]을 누르면 차량에 등록된 키 목록을 조회해 결과를 그대로 보여줍니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
