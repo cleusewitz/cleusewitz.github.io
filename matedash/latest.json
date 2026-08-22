@@ -1,6 +1,6 @@
 {
-  "version": "1.9.73",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.73.apk",
-  "notes": "[등록 확인]이 내 키인지까지 판정합니다 — 차량이 준 키 목록과 폰 키의 지문을 대조해 '내 키가 차에 등록돼 있어요'인지, 아직 없는지를 확정해서 보여줍니다.",
+  "version": "1.9.74",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.74.apk",
+  "notes": "업데이트 다운로드 진행률이 보입니다 — 받은 용량과 퍼센트, 진행 막대가 표시되고, 서버가 파일 크기를 알려주지 않으면 막대가 계속 움직입니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
