@@ -1,6 +1,6 @@
 {
-  "version": "1.9.74",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.74.apk",
-  "notes": "업데이트 다운로드 진행률이 보입니다 — 받은 용량과 퍼센트, 진행 막대가 표시되고, 서버가 파일 크기를 알려주지 않으면 막대가 계속 움직입니다.",
+  "version": "1.9.75",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.75.apk",
+  "notes": "설정에 [문제 신고]가 생겼습니다 — 지금 보이는 화면을 캡처해 앱 버전·기기 정보·최근 로그와 함께 디스코드 채널로 바로 보냅니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
