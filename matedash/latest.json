@@ -1,6 +1,6 @@
 {
-  "version": "1.9.88",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.88.apk",
-  "notes": "블루투스로 차량 상태를 실시간으로 받습니다 — 잠금·절전·탑승·문/트렁크/프렁크/충전구 상태가 대시보드 맨 위 '블루투스 실시간' 카드에 3초마다 갱신됩니다. 서버도 인터넷도 거치지 않고 차와 직접 주고받습니다. 속도·기어는 암호화 세션이 완성되면 이어서 표시됩니다.",
+  "version": "1.9.89",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.89.apk",
+  "notes": "• 블루투스 암호화 세션 — 차가 서명을 요구하는 조회까지 가능\n• 블루투스 카드에 세션 상태 표시\n• 앱 키 등록 안내 문구 정리",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
