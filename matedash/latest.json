@@ -1,6 +1,6 @@
 {
-  "version": "1.9.80",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.80.apk",
-  "notes": "트립 리포트에서 달력을 걷어내고, 트립을 만들거나 수정할 때만 달력으로 기간을 고르게 했습니다. 기간 버튼(최근 7일 등)이 달력과 부딪히던 문제도 함께 고쳤습니다. 데모 모드는 실제 차량 데이터가 들어오면 자동으로 꺼지고, 켜져 있는 동안 대시보드에 [데모 끄기] 버튼이 보입니다.",
+  "version": "1.9.81",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.81.apk",
+  "notes": "블루투스 통신을 차량이 실제로 쓰는 방식(RoutableMessage)에 맞췄습니다 — 차량 응답을 제대로 풀어 읽고, [등록 확인]은 차량에 세션 정보를 물어 '내 키가 등록됐는지'를 차량이 직접 답하게 했습니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
