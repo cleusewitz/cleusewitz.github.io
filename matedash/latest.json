@@ -1,6 +1,6 @@
 {
-  "version": "1.9.89",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.89.apk",
-  "notes": "• 블루투스 암호화 세션 — 차가 서명을 요구하는 조회까지 가능\n• 블루투스 카드에 세션 상태 표시\n• 앱 키 등록 안내 문구 정리",
+  "version": "1.9.90",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.90.apk",
+  "notes": "• 충전비 계산 — 완속·급속 단가로 기간 충전비와 1km당 비용\n• 주유 대비 절약액 표시\n• 기록 탭에서 요금 바로 입력",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
