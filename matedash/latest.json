@@ -1,6 +1,6 @@
 {
-  "version": "1.9.82",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.82.apk",
-  "notes": "블루투스 전송 실패 수정 — 여러 조각으로 나눠 보내는 메시지가 매번 실패하던 문제를 고쳤습니다. 전송 완료를 기다렸다가 다음 조각을 보내는 방식으로 바꾸고, 실패한 조각은 다시 시도합니다.",
+  "version": "1.9.83",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.83.apk",
+  "notes": "앱 키 등록 요청 형식을 바로잡았습니다 — 차량이 기대하는 형태로 담아 보내고, 4초 안에 응답이 없으면 예전 방식으로 자동 재시도합니다. 등록 화면에서 블루투스 통신 로그를 바로 볼 수 있게 했습니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
