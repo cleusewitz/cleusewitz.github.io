@@ -1,6 +1,6 @@
 {
-  "version": "1.9.83",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.83.apk",
-  "notes": "앱 키 등록 요청 형식을 바로잡았습니다 — 차량이 기대하는 형태로 담아 보내고, 4초 안에 응답이 없으면 예전 방식으로 자동 재시도합니다. 등록 화면에서 블루투스 통신 로그를 바로 볼 수 있게 했습니다.",
+  "version": "1.9.84",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.84.apk",
+  "notes": "차량이 실제로 받아들이는 형식을 먼저 보내도록 바꿨습니다 — 앱 키 등록과 등록 확인이 기다림 없이 바로 응답합니다. (실제 차량 로그로 확인: 앱 키 등록 성공, 차량 키 목록에 등록됨)",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
