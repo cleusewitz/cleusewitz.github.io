@@ -1,6 +1,6 @@
 {
-  "version": "1.9.86",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.86.apk",
-  "notes": "차량이 '처리 대기'로 답하면 키카드를 태그하라고 안내하고 계속 기다립니다. 통신 주소를 연결 내내 고정해 대화가 끊기지 않게 했고, 이미 등록된 키로 다시 등록을 누르면 그 사실을 알려줍니다.",
+  "version": "1.9.87",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.87.apk",
+  "notes": "앱 키 등록이 쉬워졌습니다 — 요청은 자동으로 보내고, 화면 맨 위에 '지금 키카드를 태그하세요'처럼 그 순간 해야 할 일만 크게 보여줍니다. 설정 > TeslaMate 연결에서 앱 키 등록 상태와 키 지문을 확인할 수 있고, 이미 등록된 경우 첫 화면에서도 알려줍니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
