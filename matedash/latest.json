@@ -1,6 +1,6 @@
 {
-  "version": "1.9.84",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.84.apk",
-  "notes": "차량이 실제로 받아들이는 형식을 먼저 보내도록 바꿨습니다 — 앱 키 등록과 등록 확인이 기다림 없이 바로 응답합니다. (실제 차량 로그로 확인: 앱 키 등록 성공, 차량 키 목록에 등록됨)",
+  "version": "1.9.85",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.85.apk",
+  "notes": "차량 키 목록에 'unknown key' 대신 휴대폰 키로 표시되도록 등록 정보를 함께 보냅니다. 차량이 등록을 확인하면 마지막 화면의 앱 키 상태가 '등록됨'으로 바뀝니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
