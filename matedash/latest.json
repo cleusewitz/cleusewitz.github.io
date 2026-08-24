@@ -1,6 +1,6 @@
 {
-  "version": "1.9.97",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.97.apk",
-  "notes": "• 차에 타면(오디오 연결) 즉시 블루투스 연결 시도\n• 배경 스캔은 절전 모드로 — 배터리 절약",
+  "version": "1.9.98",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.98.apk",
+  "notes": "• 주행 중 속도·기어를 1초마다 갱신 — 클러스터 실시간화\n• 속도 표시를 부드럽게 보간",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
