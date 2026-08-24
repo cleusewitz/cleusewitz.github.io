@@ -1,6 +1,6 @@
 {
-  "version": "1.9.90",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.90.apk",
-  "notes": "• 충전비 계산 — 완속·급속 단가로 기간 충전비와 1km당 비용\n• 주유 대비 절약액 표시\n• 기록 탭에서 요금 바로 입력",
+  "version": "1.9.91",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.91.apk",
+  "notes": "• 블루투스 자동 연결 — 앱을 켜면 등록한 차에 알아서 붙음\n• 차를 찾는 중에도 실시간 카드 표시",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
