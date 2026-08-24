@@ -1,6 +1,6 @@
 {
-  "version": "1.9.96",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.96.apk",
-  "notes": "• 차가 멀리 있으면 스캔 간격을 늘려 배터리 절약\n• 블루투스 로그에서 남의 기기 기록 제거",
+  "version": "1.9.97",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.97.apk",
+  "notes": "• 차에 타면(오디오 연결) 즉시 블루투스 연결 시도\n• 배경 스캔은 절전 모드로 — 배터리 절약",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
