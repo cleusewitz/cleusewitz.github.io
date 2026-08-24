@@ -1,6 +1,6 @@
 {
-  "version": "1.9.94",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.94.apk",
-  "notes": "• 블루투스 세션 요청 자동 재시도 — 첫 요청이 씹혀도 복구",
+  "version": "1.9.95",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.95.apk",
+  "notes": "• 블루투스 끊겨도 자동 재연결 — 차에 다시 타면 알아서 붙음\n• 연결이 끊기면 세션도 함께 정리",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
