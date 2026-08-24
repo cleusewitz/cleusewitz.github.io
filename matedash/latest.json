@@ -1,6 +1,6 @@
 {
-  "version": "1.9.93",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.93.apk",
-  "notes": "• 앱 키 등록 여부를 차량 확인값으로 표시",
+  "version": "1.9.94",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.94.apk",
+  "notes": "• 블루투스 세션 요청 자동 재시도 — 첫 요청이 씹혀도 복구",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
