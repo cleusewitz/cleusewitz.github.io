@@ -1,6 +1,6 @@
 {
-  "version": "1.9.92",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.92.apk",
-  "notes": "• 블루투스로 배터리·주행가능거리·속도·기어 읽기\n• 충전 상태·충전 kW·완충까지 남은 시간 표시",
+  "version": "1.9.93",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.93.apk",
+  "notes": "• 앱 키 등록 여부를 차량 확인값으로 표시",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
