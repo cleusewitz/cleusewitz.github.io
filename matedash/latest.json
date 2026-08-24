@@ -1,6 +1,6 @@
 {
-  "version": "1.9.95",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.95.apk",
-  "notes": "• 블루투스 끊겨도 자동 재연결 — 차에 다시 타면 알아서 붙음\n• 연결이 끊기면 세션도 함께 정리",
+  "version": "1.9.96",
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.96.apk",
+  "notes": "• 차가 멀리 있으면 스캔 간격을 늘려 배터리 절약\n• 블루투스 로그에서 남의 기기 기록 제거",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
