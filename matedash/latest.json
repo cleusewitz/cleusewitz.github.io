@@ -1,7 +1,7 @@
 {
-  "version": "1.10.0",
-  "versionCode": 169,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.10.0.apk",
-  "notes": "• 차량 데이터 소스에 \"블루투스\" 선택지 추가 (설정 > 연결 > 차량 데이터 소스)\n• 블루투스로 고정하면 TeslaMate 폴링·MQTT·Fleet API 폴링을 전부 끄고 블루투스 값만 표시 — 값이 섞이지 않아 검증 가능\n• TeslaMate/Tesla API로 고정하면 블루투스가 배터리·속도를 덮어쓰지 않음 (문·잠금 카드는 그대로 유지)\n• 설정 화면에 \"지금 출처: …\" 한 줄 추가 — 실제 값 출처 표시\n• 대시보드 BLE 카드에 \"표시용 소스가 아님\" 안내 추가",
+  "version": "1.10.1",
+  "versionCode": 170,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.10.1.apk",
+  "notes": "• 블루투스 스캔이 되풀이되던 문제 수정\n• 한 신호당 3번 시도하고 접은 뒤에는 10분 동안 자동 재시도를 쉼 — 이게 없어서 탭을 옮길 때마다 90초짜리 스캔이 새로 돌았음 (차가 없는 자리에서도)\n• 차 오디오 연결(진짜 탑승 신호)과 직접 누름은 이 쿨다운을 건너뜀\n• 로그에 \"연결 시도 1/3\"처럼 몇 번째인지 표시 — 끝없이 도는 게 아니란 걸 로그에서 바로 확인\n• 대시보드에 [지금 연결] 버튼 추가 — 쿨다운 중에 차 옆으로 갔을 때 바로 붙일 수 있음\n• 연결에 성공하면 지난 실패 기록을 지워서, 끊긴 뒤 곧바로 다시 시도 가능",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
