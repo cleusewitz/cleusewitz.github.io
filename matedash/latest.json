@@ -1,6 +1,7 @@
 {
-  "version": "1.9.98",
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.98.apk",
-  "notes": "• 주행 중 속도·기어를 1초마다 갱신 — 클러스터 실시간화\n• 속도 표시를 부드럽게 보간",
+  "version": "1.9.99",
+  "versionCode": 168,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.9.99.apk",
+  "notes": "• BLE 연결이 주기적 스캔을 버리고 이벤트 기반으로 전환 — 차 오디오 연결·대시보드 열기·클러스터 열기 시점에만 시도\n• 트리거마다 30초 간격 3회까지만 시도 후 중단 — 평소 배터리 소모 0",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
