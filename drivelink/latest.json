@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "versionCode": 2,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.2.0.apk",
+  "notes": "이름을 **DriveLink**로 바꿨습니다(전 이름: Fake GPS for Tesla).\n• 패키지명이 바뀌어서 안드로이드는 다른 앱으로 봅니다 — 이전 버전이 깔려 있으면 지우고 설치하세요\n• 기능은 같습니다: 좌표를 넣으면 폰 위치를 그곳으로 보냅니다\n• 화면 위 배지(꾹 눌러 끄기), 개발자 옵션 안내, 인앱 업데이트\n• Tesla 계정 연동 자리 준비됨 (drivelink://auth 통로 연결 완료)",
+  "htmlUrl": "https://cleusewitz.github.io/drivelink/"
+}

@@ -1,7 +1,0 @@
-{
-  "version": "0.1.0",
-  "versionCode": 1,
-  "apkUrl": "https://cleusewitz.github.io/fakegps/FakeGpsForTesla-0.1.0.apk",
-  "notes": "첫 버전.\n• 좌표를 직접 넣어 폰 위치를 그곳으로 보냅니다\n• 화면 위 배지에 보내는 중인지 표시(꾹 눌러 끄기)\n• 개발자 옵션 > 모의 위치 앱 지정 + 다른 앱 위에 표시 권한이 필요합니다\n• Tesla 계정 연동은 아직 준비 중입니다",
-  "htmlUrl": "https://cleusewitz.github.io/fakegps/"
-}
