@@ -1,7 +1,7 @@
 {
-  "version": "0.5.5",
-  "versionCode": 14,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.5.5.apk",
-  "notes": "**동의 화면이 안 뜨던 진짜 원인**을 찾았습니다.\n• 테슬라는 표준 방식(prompt=consent)을 쓰지 않고 자기 파라미터를 씁니다. 그래서 앱을 지우고 다시 깔아도 소용이 없었습니다\n• 이제 아직 승인 안 한 권한이 있으면 다시 물어보고(prompt_missing_scopes), **요청한 권한을 전부 승인해야 넘어갑니다**(require_requested_scopes)\n• 하나만 빼고 승인해서 반쯤 되는 상태가 애초에 안 만들어집니다 — 이번 문제가 정확히 그거였습니다",
+  "version": "0.6.0",
+  "versionCode": 15,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.6.0.apk",
+  "notes": "**주기적으로 확인하지 않습니다.**\n• 이제 '지금 위치 가져오기'를 누를 때만 차에 물어봅니다. 켜두기만 해도 요금이 새던 구조를 없앴습니다\n• 차는 대부분 서 있으니 한 번 받아둔 위치면 충분하고, 옮겼으면 그때 다시 누르면 됩니다\n\n**'현재 위치 넣기'가 생겼습니다.**\n• 좌표를 손으로 치는 대신 지금 있는 자리를 채워줍니다. 거기서 조금씩 옮겨 쓰시면 됩니다\n• 위치를 보내는 중에는 우리가 보낸 좌표가 그대로 돌아오므로, 그때는 읽지 않고 이유를 알려줍니다\n\n**차대번호(VIN) 칸을 없앴습니다** — VIN으로는 위치를 가져올 수 없어서 자리만 차지했습니다.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
