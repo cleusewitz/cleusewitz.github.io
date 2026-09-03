@@ -1,7 +1,7 @@
 {
-  "version": "0.3.1",
-  "versionCode": 4,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.3.1.apk",
-  "notes": "테슬라 로그인 주소가 새 도메인(drivelink-app.vercel.app)으로 바뀌었습니다.\n• 테슬라 콘솔의 출처·리디렉션을 새 주소로 바꾼 뒤에는 **이 버전이어야 로그인이 됩니다**\n• 기능 변화는 없습니다",
+  "version": "0.3.2",
+  "versionCode": 5,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.3.2.apk",
+  "notes": "새 버전 확인을 **앱을 열 때마다** 합니다.\n• 전엔 앱을 처음 켤 때 한 번만 확인해서, 켜둔 채로 두면 그 사이 나온 버전을 못 봤습니다\n• 이제 다른 앱 갔다 돌아올 때마다 다시 확인합니다\n• 테슬라 로그인 주소는 drivelink-app.vercel.app (0.3.1과 동일)",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
