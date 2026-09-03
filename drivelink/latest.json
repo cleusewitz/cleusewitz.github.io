@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "versionCode": 6,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.4.0.apk",
-  "notes": "**테슬라 파트너 등록이 끝났습니다** — 이제 로그인하면 차량 목록과 위치가 실제로 옵니다.\n• 로그인은 됐는데 화면이 로그아웃으로 보이던 것을 고쳤습니다. 토큰을 받은 순간 로그인으로 칩니다 — 차량 목록을 못 받는 건 그다음 문제입니다\n• 그래서 **연결 해제 버튼이 안 보이던 문제**도 같이 해결됐습니다\n• 로그인 흔적이 남아 있는데 화면이 로그아웃으로 보이면 '이전 로그인 정보 지우기'로 빠져나올 수 있습니다\n• 로그인 주소가 drivelink-app.vercel.app 으로 바뀌었으니 **이 버전 이상이어야 로그인됩니다**",
+  "version": "0.4.1",
+  "versionCode": 7,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.4.1.apk",
+  "notes": "오류 문구를 사람 말로 바꿨습니다.\n• 자바 예외가 그대로 화면에 나오던 것을 고쳤습니다\n• 특히 보안 연결 실패는 원인이 거의 정해져 있어서 — VPN이나 회사 네트워크가 통신을 중간에서 검사하면 납니다 — 그 사실과 해볼 것을 알려줍니다\n• 인터넷 없음 / 응답 없음 / 서버 연결 실패도 각각 다르게 표시합니다",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
