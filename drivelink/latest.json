@@ -1,7 +1,7 @@
 {
-  "version": "0.8.0",
-  "versionCode": 20,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.8.0.apk",
-  "notes": "**앱을 열면 오래된 위치를 다시 가져옵니다.**\n• 차를 몰고 나갔다 왔는데 옛 위치가 그대로 남아 있으면 그건 거짓말이라, 10분 넘게 지났으면 열 때 한 번 갱신합니다\n• 주기적으로 묻지는 않습니다 — 요금과 정확함의 접점을 '열 때 한 번'으로 잡았습니다\n• 물론 홈의 '차 위치 다시 가져오기'로 언제든 직접 갱신할 수 있습니다\n\n**하위 화면 맨 아래에도 '홈으로' 버튼을 넣었습니다** — 화면이 길어서 위까지 다시 올라가야 했습니다.",
+  "version": "0.8.1",
+  "versionCode": 21,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.8.1.apk",
+  "notes": "**시작 화면을 다시 볼 수 있습니다.**\n• 메인 화면 아래 '시작 화면 다시 보기'로 언제든 들어갑니다\n• 전에는 한 번 설정을 끝내면 앱을 지웠다 깔아야만 볼 수 있었습니다\n• 그 화면에서 '← 메인으로'로 바로 돌아옵니다(설정을 이미 끝낸 경우에만 보입니다)",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
