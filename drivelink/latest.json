@@ -1,7 +1,7 @@
 {
-  "version": "0.5.2",
-  "versionCode": 11,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.5.2.apk",
-  "notes": "로그인할 때 **권한 체크박스 화면이 다시 뜹니다.**\n• 전엔 비밀번호만 다시 받고 동의 화면은 건너뛰었습니다 — 그래서 빠진 권한을 채울 기회가 없었습니다\n• 이제 로그인할 때마다 권한 목록이 나옵니다. **차량 정보**와 **차량 위치**를 둘 다 체크하고 동의해 주세요",
+  "version": "0.5.3",
+  "versionCode": 12,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.5.3.apk",
+  "notes": "**'설치'를 눌러도 아무 일도 안 나던 것**을 고쳤습니다.\n• 앱을 보고 있는 중에도 설치 화면 대신 알림만 띄우고 있었습니다 — 이제 앞에 있으면 설치 화면이 바로 뜹니다\n• '알 수 없는 앱 설치'가 허용 안 돼 있으면 그 설정 화면으로 데려갑니다(전엔 조용히 막혔습니다)\n• 업데이트 과정도 로그에 남습니다",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
