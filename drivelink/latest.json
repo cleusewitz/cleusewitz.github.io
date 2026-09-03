@@ -1,7 +1,7 @@
 {
-  "version": "0.9.0",
-  "versionCode": 22,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.9.0.apk",
-  "notes": "**하단 탭이 생겼습니다** (MateDash와 같은 플로팅 모양).\n• 홈 / 연결 / 차량 / 로그 / 설정 다섯 탭\n• 설정 탭에서 **기본·플로팅** 중에 고를 수 있습니다\n• 홈에 있던 링크 버튼들은 탭과 겹쳐서 정리했습니다\n\n**'가상 위치 앱 선택'으로 문구를 고쳤습니다.**\n• 실제 안드로이드 화면에 적힌 이름과 맞췄습니다\n• '열기'를 누르면 개발자 옵션까지 갑니다. 안드로이드가 그 안의 항목으로 바로 가는 길은 열어주지 않아서, 어디를 봐야 하는지(디버깅 항목들 사이)를 화면에 적었습니다",
+  "version": "0.9.1",
+  "versionCode": 23,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.9.1.apk",
+  "notes": "**MateDash와 같은 글꼴·색·크기로 맞췄습니다.**\n• Pretendard 글꼴과 색 토큰, 글자 크기 체계를 그대로 옮겨왔습니다\n\n**화면을 둘로 줄였습니다 — 홈과 설정.**\n• 하단 탭을 빼고 오른쪽 위 톱니 버튼 하나로 설정에 들어갑니다\n• 연결 · 차량 · 로그 · 시작 화면은 설정 안에 모았습니다\n• 홈은 지금 무슨 위치를 보내는지와 시작/중지만 남겼습니다",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
