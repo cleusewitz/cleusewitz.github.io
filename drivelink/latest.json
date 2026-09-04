@@ -1,7 +1,7 @@
 {
-  "version": "0.9.6",
-  "versionCode": 28,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.9.6.apk",
-  "notes": "**로그 · 마지막 요청 · 시작 화면 다시 보기를 스토어 빌드에서는 감춥니다.**\n• 문제를 잡을 때 쓰는 것들이라 일반 사용자에겐 군더더기입니다\n• 지금 쓰시는 이 빌드(사이드로드)에서는 그대로 보입니다 — 그게 없으면 무엇이 잘못됐는지 알아낼 방법이 사라집니다",
+  "version": "0.10.0",
+  "versionCode": 29,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.10.0.apk",
+  "notes": "**홈 화면 위젯이 생겼습니다.**\n• 위젯을 한 번 누르면 전송 버튼을 누른 것과 똑같이 켜지고, 다시 누르면 꺼집니다\n• 켜져 있으면 테두리가 빨갛게 바뀌고 좌표가 몇 분 전 것인지 보여줍니다 — 켜둔 걸 잊고 다니지 않게\n• 보낼 위치가 없으면 그 사실을 알려주고 켜지지 않습니다\n\n위젯 추가: 홈 화면 길게 누르기 > 위젯 > DriveLink",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
