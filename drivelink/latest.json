@@ -1,7 +1,7 @@
 {
-  "version": "0.11.2",
-  "versionCode": 32,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.11.2.apk",
-  "notes": "버전 표시를 **설정 맨 아래 한 번만** 두고 가운데 정렬했습니다. 화면마다 붙어 있어서 잡음이었습니다.",
+  "version": "0.12.0",
+  "versionCode": 33,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.12.0.apk",
+  "notes": "**애프터블로우 위젯**을 만들었습니다(자리만).\n• 아직 공조 명령을 보내는 기능이 없어서, 누르면 무엇이 남았는지 알려줍니다 — 눌렀는데 조용히 아무 일도 안 일어나는 게 제일 나쁩니다\n\n**위치 전송 위젯이 켜지면 초록으로 바뀝니다.**\n• 전송 중 = 초록 테두리 + 초록 글자, 꺼짐 = 회색\n• 빨강은 경고로 읽혀서 '켜짐'을 반대로 전달합니다\n\n**두 위젯 다 크기를 조절할 수 있습니다** — 최소 2×1, 최대 250×110dp.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
