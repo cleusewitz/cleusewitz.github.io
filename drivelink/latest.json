@@ -1,7 +1,7 @@
 {
-  "version": "0.9.5",
-  "versionCode": 27,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.9.5.apk",
-  "notes": "버튼 이름을 짧게 했습니다.\n• '모의 위치 전송 시작' → **'위치 전송'**, 켜져 있을 때는 '전송 중지'\n• 다른 안내도 안드로이드 화면에 적힌 이름('가상 위치')으로 맞췄습니다",
+  "version": "0.9.6",
+  "versionCode": 28,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.9.6.apk",
+  "notes": "**로그 · 마지막 요청 · 시작 화면 다시 보기를 스토어 빌드에서는 감춥니다.**\n• 문제를 잡을 때 쓰는 것들이라 일반 사용자에겐 군더더기입니다\n• 지금 쓰시는 이 빌드(사이드로드)에서는 그대로 보입니다 — 그게 없으면 무엇이 잘못됐는지 알아낼 방법이 사라집니다",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
