@@ -1,7 +1,7 @@
 {
-  "version": "0.9.3",
-  "versionCode": 25,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.9.3.apk",
-  "notes": "**안내 문구를 사용자에게 하는 말로 바꿨습니다.**\n• '앱이 대신 못 하는 것들입니다' → 'DriveLink를 쓰려면 안드로이드에서 아래 두 가지를 허용해야 합니다'\n• '아직 안 됨' → '필요합니다 · 개발자 옵션 목록에서 가상 위치 앱 선택을 찾으세요'\n• 안드로이드가 왜 그렇게 만들어졌는지 같은 설명은 뺐습니다 — 쓰는 사람에겐 필요 없는 이야기입니다\n\n**시작 화면 위쪽의 '메인으로' 버튼을 없앴습니다** — 아래 '시작하기'가 같은 일을 합니다.",
+  "version": "0.9.4",
+  "versionCode": 26,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.9.4.apk",
+  "notes": "**'시작하기'를 누르면 홈으로 갑니다.**\n• 설정에서 시작 화면에 들어갔을 때 '시작하기'를 누르면 설정으로 되돌아가 있었습니다\n• 시작했는데 설정이 나오면 그건 시작이 아니죠",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
