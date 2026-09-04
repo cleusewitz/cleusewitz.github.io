@@ -1,7 +1,7 @@
 {
-  "version": "0.11.1",
-  "versionCode": 31,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.11.1.apk",
-  "notes": "**설정을 목록 형태로 바꿨습니다**(MateDash와 같은 모양).\n• 갈래(차량 · 권한 · 디버그) 아래에 한 줄씩 놓고, 눌러서 들어갑니다\n• 각 줄에 지금 상태가 함께 보입니다(연결됨 / 완료)\n• 카드를 세로로 쌓아두면 화면이 길어지고 뭘 바꾸러 왔는지 잊게 됩니다\n• 뒤로 가기는 한 겹씩 벗겨집니다 — 하위 화면 → 설정 목록 → 홈",
+  "version": "0.11.2",
+  "versionCode": 32,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.11.2.apk",
+  "notes": "버전 표시를 **설정 맨 아래 한 번만** 두고 가운데 정렬했습니다. 화면마다 붙어 있어서 잡음이었습니다.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
