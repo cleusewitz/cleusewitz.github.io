@@ -1,7 +1,7 @@
 {
-  "version": "0.9.4",
-  "versionCode": 26,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.9.4.apk",
-  "notes": "**'시작하기'를 누르면 홈으로 갑니다.**\n• 설정에서 시작 화면에 들어갔을 때 '시작하기'를 누르면 설정으로 되돌아가 있었습니다\n• 시작했는데 설정이 나오면 그건 시작이 아니죠",
+  "version": "0.9.5",
+  "versionCode": 27,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.9.5.apk",
+  "notes": "버튼 이름을 짧게 했습니다.\n• '모의 위치 전송 시작' → **'위치 전송'**, 켜져 있을 때는 '전송 중지'\n• 다른 안내도 안드로이드 화면에 적힌 이름('가상 위치')으로 맞췄습니다",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
