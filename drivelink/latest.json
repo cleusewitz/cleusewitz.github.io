@@ -1,7 +1,7 @@
 {
-  "version": "0.13.2",
-  "versionCode": 36,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.13.2.apk",
-  "notes": "**요청이 서로 겹쳐서 통신이 멈추던 것**을 고쳤습니다.\n• 연결 완료 신호가 여러 번 오는데, 그때마다 키 확인과 세션 요청을 새로 보내고 있었습니다\n• 그래서 요청이 겹치고 '확인 요청 전송 실패' → '전송이 3초째 멈춤'으로 이어졌습니다\n• 이제 연결 한 번에 키 확인도 한 번만 보냅니다\n• 이미 연결 중일 때 다시 눌러도 겹치지 않습니다",
+  "version": "0.13.3",
+  "versionCode": 37,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.13.3.apk",
+  "notes": "연결은 됐는데 아무것도 안 나가던 것을 고쳤다. 연결 직후 첫 쓰기가 거절되면 그 조각이 줄 맨 앞에 남아 **그 뒤의 세션 요청이 전부 묶여 있었다** — 로그에는 '세션 요청 보냄'이 찍히는데 차는 받은 적이 없었다. 이제 거절된 조각은 다시 밀고, 다섯 번 해도 안 나가면 그 요청만 버리고 다음으로 넘어간다. 키 확인도 MTU 협상이 끝난 뒤에 보낸다.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
