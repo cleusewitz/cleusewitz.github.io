@@ -1,7 +1,7 @@
 {
-  "version": "1.8.1",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.8.1.apk",
-  "notes": "종목 이름이 길면 화면이 무너지던 것을 고쳤습니다 — 이름 옆 비중 표시가 글자 하나씩 세로로 쌓여 카드 절반이 빈칸이 됐습니다. 이름은 한 줄로 자르고 비중은 아래 제 줄로 내렸습니다. 리밸런싱·배당·손익 기여도·목표 목록에서도 같은 문제를 함께 고쳤습니다.",
+  "version": "1.9.0",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.9.0.apk",
+  "notes": "적립 계획이 생겼습니다 — 'SCHD를 하루 2주씩'처럼 적어두면 목표 비중까지 몇 번 더 사야 하고 며칠 걸리는지, 며칟날 도달하는지 리밸런싱 상세에 함께 보여줍니다. 여기 쓰는 금액은 위쪽 '더 사기'와 다릅니다 — 팔지 않고 사서만 맞추면 넣는 돈만큼 전체도 커져서 더 많이 필요하기 때문입니다.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/",
-  "versionCode": 103
+  "versionCode": 104
 }
