@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.9.0.apk",
-  "notes": "적립 계획이 생겼습니다 — 'SCHD를 하루 2주씩'처럼 적어두면 목표 비중까지 몇 번 더 사야 하고 며칠 걸리는지, 며칟날 도달하는지 리밸런싱 상세에 함께 보여줍니다. 여기 쓰는 금액은 위쪽 '더 사기'와 다릅니다 — 팔지 않고 사서만 맞추면 넣는 돈만큼 전체도 커져서 더 많이 필요하기 때문입니다.",
+  "version": "1.9.1",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.9.1.apk",
+  "notes": "'130주만 사면 되는데 216번은 어디서 나온 거야?' — 같은 카드에 주수가 두 개인데 서로 무슨 관계인지 안 적혀 있었습니다. 이제 적립 계획이 총 몇 주인지 함께 보여주고(216번 × 2주 = 432주), 위에 적힌 주수는 다른 묶음을 함께 팔아서 맞출 때라고 밝힙니다.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/",
-  "versionCode": 104
+  "versionCode": 105
 }
