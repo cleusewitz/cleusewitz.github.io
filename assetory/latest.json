@@ -1,7 +1,7 @@
 {
-  "version": "1.8.0",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.8.0.apk",
-  "notes": "목표를 여러 개 세울 수 있습니다 — 설정 > 목표로 옮겼고, 목록에서 누르면 상세로 들어갑니다. 목표마다 어느 자산으로 채울지 고를 수 있고(안 고르면 총자산), 기한을 넣으면 매달 얼마씩 모아야 하는지 계산합니다. 분석 탭은 리밸런싱 탭이 됐습니다 — 세트를 만들면 목록에 항목으로 쌓이고 각각 상세로 들어갑니다. 만들기 화면도 팝업에서 전체 화면으로 바꿨습니다. 1.7.0에서 만든 세트가 목록에 안 보이던 문제도 고쳤습니다.",
+  "version": "1.8.1",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.8.1.apk",
+  "notes": "종목 이름이 길면 화면이 무너지던 것을 고쳤습니다 — 이름 옆 비중 표시가 글자 하나씩 세로로 쌓여 카드 절반이 빈칸이 됐습니다. 이름은 한 줄로 자르고 비중은 아래 제 줄로 내렸습니다. 리밸런싱·배당·손익 기여도·목표 목록에서도 같은 문제를 함께 고쳤습니다.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/",
-  "versionCode": 102
+  "versionCode": 103
 }
