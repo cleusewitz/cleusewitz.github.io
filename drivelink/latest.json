@@ -1,7 +1,7 @@
 {
-  "version": "0.15.1",
-  "versionCode": 40,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.15.1.apk",
-  "notes": "VIN 조회 기능을 뺐습니다. 홈의 두 기능 카드(차량 호출 보정·애프터블로우) 높이를 같게 맞췄습니다 — 설명 길이가 달라 한 장만 키가 컸던 것을 고쳤습니다.",
+  "version": "0.15.2",
+  "versionCode": 41,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.15.2.apk",
+  "notes": "애프터블로우가 안 되던 원인을 고쳤습니다. 차량정보(공조) 세션 요청의 응답을 문·잠금 관리자가 대신 보내는 탓에, 그 응답을 문·잠금 세션으로 착각해 덮어쓰고 있었습니다. 그래서 공조 세션이 영영 안 열리고 오류 3이 났습니다. 이제 '방금 청한 차량정보 세션'으로 올바로 분류합니다. 키가 공조 권한으로 인증 안 된 경우에는 그 사실을 화면에 분명히 띄웁니다.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
