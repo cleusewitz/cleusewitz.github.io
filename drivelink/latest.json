@@ -1,7 +1,7 @@
 {
-  "version": "0.15.2",
-  "versionCode": 41,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.15.2.apk",
-  "notes": "애프터블로우가 안 되던 원인을 고쳤습니다. 차량정보(공조) 세션 요청의 응답을 문·잠금 관리자가 대신 보내는 탓에, 그 응답을 문·잠금 세션으로 착각해 덮어쓰고 있었습니다. 그래서 공조 세션이 영영 안 열리고 오류 3이 났습니다. 이제 '방금 청한 차량정보 세션'으로 올바로 분류합니다. 키가 공조 권한으로 인증 안 된 경우에는 그 사실을 화면에 분명히 띄웁니다.",
+  "version": "0.16.0",
+  "versionCode": 42,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.16.0.apk",
+  "notes": "블루투스 시뮬레이션이 생겼습니다 — 차 없이 연결 흐름을 테스트합니다. 설정 > 디버그 > '블루투스 시뮬레이션'을 켜고 연결하면, 검색 → 발견 → (키 미등록이면) 키카드 태그 → 세션 열림 → 더미 차량정보가 그대로 재현됩니다. 애프터블로우도 실제 명령 없이 타이머만 돕니다. 스토어(play) 빌드에는 안 들어갑니다.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
