@@ -1,7 +1,7 @@
 {
-  "version": "0.16.0",
-  "versionCode": 42,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.16.0.apk",
-  "notes": "블루투스 시뮬레이션이 생겼습니다 — 차 없이 연결 흐름을 테스트합니다. 설정 > 디버그 > '블루투스 시뮬레이션'을 켜고 연결하면, 검색 → 발견 → (키 미등록이면) 키카드 태그 → 세션 열림 → 더미 차량정보가 그대로 재현됩니다. 애프터블로우도 실제 명령 없이 타이머만 돕니다. 스토어(play) 빌드에는 안 들어갑니다.",
+  "version": "0.16.1",
+  "versionCode": 43,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.16.1.apk",
+  "notes": "아이콘을 디자인 세트에 맞는 전용 벡터 아이콘으로 교체했습니다 — 차량·위치·팬·설정. 이전에는 이모지를 임시로 쓰고 있어서 기기에 따라 밋밋하거나 기본 아이콘처럼 보였습니다.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
