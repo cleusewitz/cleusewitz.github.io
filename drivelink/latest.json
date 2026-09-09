@@ -1,7 +1,7 @@
 {
-  "version": "0.16.1",
-  "versionCode": 43,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.16.1.apk",
-  "notes": "아이콘을 디자인 세트에 맞는 전용 벡터 아이콘으로 교체했습니다 — 차량·위치·팬·설정. 이전에는 이모지를 임시로 쓰고 있어서 기기에 따라 밋밋하거나 기본 아이콘처럼 보였습니다.",
+  "version": "0.16.2",
+  "versionCode": 44,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.16.2.apk",
+  "notes": "애프터블로우가 안 되던 진짜 이유를 찾았습니다 — 키 등록 버튼이 숨겨져 있었습니다. 문·잠금 통로에만 등록돼 있으면 앱이 '다 등록됨'으로 착각해 등록 버튼을 감췄고, 그래서 공조 통로에 키를 등록할 방법이 화면에 없었습니다. 이제 공조를 못 보내는 상태면 등록 버튼이 항상 뜹니다. 눌러서 키카드 태그하면 공조 통로에도 등록됩니다.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
