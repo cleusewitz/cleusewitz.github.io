@@ -1,7 +1,7 @@
 {
-  "version": "0.16.2",
-  "versionCode": 44,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.16.2.apk",
-  "notes": "애프터블로우가 안 되던 진짜 이유를 찾았습니다 — 키 등록 버튼이 숨겨져 있었습니다. 문·잠금 통로에만 등록돼 있으면 앱이 '다 등록됨'으로 착각해 등록 버튼을 감췄고, 그래서 공조 통로에 키를 등록할 방법이 화면에 없었습니다. 이제 공조를 못 보내는 상태면 등록 버튼이 항상 뜹니다. 눌러서 키카드 태그하면 공조 통로에도 등록됩니다.",
+  "version": "0.16.3",
+  "versionCode": 45,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.16.3.apk",
+  "notes": "애프터블로우 명령이 거절되던 근본 원인을 고쳤습니다. 문·잠금 세션 정보가 공조 세션에 섞여 들어와 카운터를 오염시키고(215682↔11), 그 어긋난 카운터로 서명한 명령을 차가 거절했습니다. 이제 다른 세션의 정보는 epoch로 걸러 무시합니다. 시작·정지 둘 다 안정적으로 됩니다.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
