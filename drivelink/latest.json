@@ -1,7 +1,7 @@
 {
-  "version": "0.17.0",
-  "versionCode": 46,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.17.0.apk",
-  "notes": "애프터블로우에 창문 살짝 열기(벤트) 스위치를 넣었습니다. 켜면 송풍 동안 창문을 벤트로 열어 습기를 더 빨리 빼고 끝나면 자동으로 닫습니다. 온도는 히터 쪽(28°C)으로 바꿨습니다 — 냉방이 돌면 습기가 계속 생겨 말리는 목적과 반대라서요. 그리고 끝나면 시작 전 목표온도로 되돌립니다.",
+  "version": "0.18.0",
+  "versionCode": 47,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.18.0.apk",
+  "notes": "블루투스가 끊기면 자동으로 다시 붙습니다. 예전엔 근처에 있어도 한 번 끊기면 '연결이 끊겼어요'만 뜨고 수동으로 다시 눌러야 했는데, 이제 붙어 있어야 하는 상태면 알아서 재연결합니다(간격을 늘려가며 계속 시도). '끊기'를 직접 누른 경우엔 다시 붙지 않습니다.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
