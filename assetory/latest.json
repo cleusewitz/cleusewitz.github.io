@@ -1,7 +1,7 @@
 {
-  "version": "1.9.1",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.9.1.apk",
-  "notes": "'130주만 사면 되는데 216번은 어디서 나온 거야?' — 같은 카드에 주수가 두 개인데 서로 무슨 관계인지 안 적혀 있었습니다. 이제 적립 계획이 총 몇 주인지 함께 보여주고(216번 × 2주 = 432주), 위에 적힌 주수는 다른 묶음을 함께 팔아서 맞출 때라고 밝힙니다.",
+  "version": "1.10.0",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.10.0.apk",
+  "notes": "자산 추가와 리밸런싱 등록 화면을 더 읽기 쉽게 정리했어요. 자산 추가는 필드가 쭉 나열돼 벽처럼 보이던 걸 ①무엇을 담을까요 ②얼마에 샀나요 ③추가 정보 세 단계로 끊고, 각 단계에 번호·제목·한 줄 설명을 붙였습니다. 리밸런싱 세트 등록은 맨 위에 '세트 안에 묶음을 만들고 묶음마다 종목·목표%를 준다'는 개념 설명을 넣고, 묶음마다 번호(묶음 1·2)를 붙여 목록으로 읽히게 했어요.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/",
-  "versionCode": 105
+  "versionCode": 106
 }
