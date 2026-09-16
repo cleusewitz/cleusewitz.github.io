@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "versionCode": 1,
+  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.1.0.apk",
+  "notes": "블박 뷰어 첫 버전. 테슬라 USB(TeslaCam)를 폰에 OTG로 꽂고 폴더를 선택하면 센트리·수동저장·최근 영상을 이벤트별로 보여줍니다. 각도(전/후/좌/우)를 전환하며 재생하고, 구간을 잘라 mp4로 내보내 신고(스마트국민제보)·보험에 첨부할 수 있어요.",
+  "htmlUrl": "https://cleusewitz.github.io/dashcam/"
+}
