@@ -1,7 +1,7 @@
 {
-  "version": "1.10.1",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.10.1.apk",
-  "notes": "화면 색을 Kokonut UI 톤으로 정리했어요. 회색(zinc) 바탕 위에 수익·정상은 초록(emerald), 주의는 앰버, 손실·이상은 빨강 — 상태를 나타내는 색만 남기고 장식용 파랑·골드는 걷어냈습니다. 다크 모드에서는 카드가 배경보다 한 단계 밝아 카드 경계가 또렷하게 보이고, 라이트/다크가 자동으로 맞춰집니다. 앞선 1.10.0의 자산추가 3단계 정리·리밸런싱 개념 설명도 그대로 들어있어요.",
+  "version": "1.11.0",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.11.0.apk",
+  "notes": "리밸런싱 세트 상세에서 미국 종목을 티커(SCHD) + 바로 아래 작은 글씨 풀네임(Schwab US Dividend Equity ETF)으로 함께 보여줍니다. 티커만 입력해 저장한 종목(GDXY 등)도 내장 ETF 사전에서 풀네임을 채워, 같은 묶음인데 어떤 종목만 풀네임이 뜨던 문제를 없앴어요.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/",
-  "versionCode": 107
+  "versionCode": 108
 }
