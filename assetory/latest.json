@@ -1,7 +1,7 @@
 {
-  "version": "1.10.0",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.10.0.apk",
-  "notes": "자산 추가와 리밸런싱 등록 화면을 더 읽기 쉽게 정리했어요. 자산 추가는 필드가 쭉 나열돼 벽처럼 보이던 걸 ①무엇을 담을까요 ②얼마에 샀나요 ③추가 정보 세 단계로 끊고, 각 단계에 번호·제목·한 줄 설명을 붙였습니다. 리밸런싱 세트 등록은 맨 위에 '세트 안에 묶음을 만들고 묶음마다 종목·목표%를 준다'는 개념 설명을 넣고, 묶음마다 번호(묶음 1·2)를 붙여 목록으로 읽히게 했어요.",
+  "version": "1.10.1",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.10.1.apk",
+  "notes": "화면 색을 Kokonut UI 톤으로 정리했어요. 회색(zinc) 바탕 위에 수익·정상은 초록(emerald), 주의는 앰버, 손실·이상은 빨강 — 상태를 나타내는 색만 남기고 장식용 파랑·골드는 걷어냈습니다. 다크 모드에서는 카드가 배경보다 한 단계 밝아 카드 경계가 또렷하게 보이고, 라이트/다크가 자동으로 맞춰집니다. 앞선 1.10.0의 자산추가 3단계 정리·리밸런싱 개념 설명도 그대로 들어있어요.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/",
-  "versionCode": 106
+  "versionCode": 107
 }
