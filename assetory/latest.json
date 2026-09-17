@@ -1,7 +1,7 @@
 {
-  "version": "1.12.0",
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.12.0.apk",
-  "notes": "리밸런싱 세트 상세 '적립 계획' 위에 배당 성장 카드가 생겼어요. 지금처럼 사 모으면 연 배당금이 1·3·5년 뒤 얼마가 되는지 보여줍니다(적립 계획 기준, 주가·배당은 그대로 놓고 사 모으는 만큼만 늘린 추정). 지금 연 배당과 월 평균도 함께 표시합니다.",
+  "version": "1.13.0",
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.13.0.apk",
+  "notes": "리밸런싱 세트에 '목표 배당'을 넣었어요. 세트에 담긴 배당주(그룹 여러 개면 다 합쳐서)를 기준으로, 목표 연 배당(예: 연 2,000만원)을 정하면 지금 적립 속도로 언제 닿는지와 얼마를 더 모아야 하는지 보여줍니다. 배당 성장 카드 아래 '목표 배당 설정'에서 정하세요.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/",
-  "versionCode": 109
+  "versionCode": 110
 }
