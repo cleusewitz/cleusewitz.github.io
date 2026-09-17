@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "versionCode": 5,
-  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.4.0.apk",
-  "notes": "목록을 종류(센트리·수동저장·최근)로 골라 보고, 같은 날짜끼리 묶어서 '2026년 9월 15일'처럼 날짜 헤더로 보여줍니다. 그리고 어느 화면에서든 '설정'에서 업데이트를 확인·설치할 수 있게 고쳤어요(전엔 첫 화면에서만 배너로 떠서 놓치기 쉬웠습니다).",
+  "version": "0.5.0",
+  "versionCode": 6,
+  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.5.0.apk",
+  "notes": "이벤트 카드에 테슬라 썸네일(thumb.png) 미리보기를 넣어 한눈에 보이게 했고, 신고 기능을 제대로 만들었어요. 구간을 자르면 '신고 준비' 창이 떠서 위반 유형을 고르고, 일시·위치가 자동으로 채워지고, [요약 복사 + 안전신문고 열기]를 누르면 신고 내용이 클립보드에 담기고 안전신문고가 열립니다. 붙여넣고 [영상 공유]로 이 영상을 첨부하면 끝이에요.",
   "htmlUrl": "https://cleusewitz.github.io/dashcam/"
 }
