@@ -1,7 +1,7 @@
 {
-  "version": "0.7.0",
-  "versionCode": 9,
-  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.7.0.apk",
-  "notes": "새 디자인 시스템(Tesla Dash)을 입혔어요 — 그린(진행/신고 CTA) + 라벤더(선택 상태) + 화이트 유틸리티 톤. 버튼은 둥근 알약 모양, 카드는 그림자 없이 얇은 테두리, 선택된 칩(카메라·필터·신고유형)은 라벤더로 표시됩니다. 깔끔하고 데이터 도구다운 느낌으로 정리했습니다.",
+  "version": "0.8.0",
+  "versionCode": 10,
+  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.8.0.apk",
+  "notes": "화면을 Tesla Dash 디자인대로 다시 구성했어요. 첫 실행 웰컴 화면, 홈(주행 기록 목록), 영상 편집 화면(카메라 칩이 영상 위로 + 구간 선택 프리셋 + 시작/종료 박스 + 초록 핸들 필름스트립 타임라인 + 편집 구간 미리보기), 신고 화면(신고 유형 타일 선택), 신고 준비 완료 확인까지. 참고: 차량 배터리/주행거리·신고번호·속도는 데이터가 없어 넣지 않았습니다(위치·시간·사유는 그대로).",
   "htmlUrl": "https://cleusewitz.github.io/dashcam/"
 }
