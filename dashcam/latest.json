@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0",
-  "versionCode": 7,
-  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.6.0.apk",
-  "notes": "USB·PC 없이 폰에서 바로 테스트할 수 있게, 첫 화면 '샘플 데이터 만들어 보기'를 누르면 앱이 테슬라와 똑같은 구조로 샘플 폴더(영상·썸네일·위치정보)를 폰에 직접 만들고 바로 엽니다. 목록·썸네일·재생·4분할·신고까지 실제 파일로 다 됩니다.",
+  "version": "0.6.1",
+  "versionCode": 8,
+  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.6.1.apk",
+  "notes": "샘플 데이터 만들기를 '설정'에서도 할 수 있게 했어요 — USB를 이미 골랐거나 목록 화면이어도 설정에서 바로 샘플을 만들어 열 수 있습니다. (USB가 빠지면 안드로이드가 '비정상 분리'라고 알리는데, 그건 앱이 아니라 OS 메시지예요. 샘플은 USB 없이도 됩니다.)",
   "htmlUrl": "https://cleusewitz.github.io/dashcam/"
 }
