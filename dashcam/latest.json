@@ -1,7 +1,7 @@
 {
-  "version": "0.6.1",
-  "versionCode": 8,
-  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.6.1.apk",
-  "notes": "샘플 데이터 만들기를 '설정'에서도 할 수 있게 했어요 — USB를 이미 골랐거나 목록 화면이어도 설정에서 바로 샘플을 만들어 열 수 있습니다. (USB가 빠지면 안드로이드가 '비정상 분리'라고 알리는데, 그건 앱이 아니라 OS 메시지예요. 샘플은 USB 없이도 됩니다.)",
+  "version": "0.7.0",
+  "versionCode": 9,
+  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.7.0.apk",
+  "notes": "새 디자인 시스템(Tesla Dash)을 입혔어요 — 그린(진행/신고 CTA) + 라벤더(선택 상태) + 화이트 유틸리티 톤. 버튼은 둥근 알약 모양, 카드는 그림자 없이 얇은 테두리, 선택된 칩(카메라·필터·신고유형)은 라벤더로 표시됩니다. 깔끔하고 데이터 도구다운 느낌으로 정리했습니다.",
   "htmlUrl": "https://cleusewitz.github.io/dashcam/"
 }
