@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "versionCode": 6,
-  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.5.0.apk",
-  "notes": "이벤트 카드에 테슬라 썸네일(thumb.png) 미리보기를 넣어 한눈에 보이게 했고, 신고 기능을 제대로 만들었어요. 구간을 자르면 '신고 준비' 창이 떠서 위반 유형을 고르고, 일시·위치가 자동으로 채워지고, [요약 복사 + 안전신문고 열기]를 누르면 신고 내용이 클립보드에 담기고 안전신문고가 열립니다. 붙여넣고 [영상 공유]로 이 영상을 첨부하면 끝이에요.",
+  "version": "0.6.0",
+  "versionCode": 7,
+  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.6.0.apk",
+  "notes": "USB·PC 없이 폰에서 바로 테스트할 수 있게, 첫 화면 '샘플 데이터 만들어 보기'를 누르면 앱이 테슬라와 똑같은 구조로 샘플 폴더(영상·썸네일·위치정보)를 폰에 직접 만들고 바로 엽니다. 목록·썸네일·재생·4분할·신고까지 실제 파일로 다 됩니다.",
   "htmlUrl": "https://cleusewitz.github.io/dashcam/"
 }
