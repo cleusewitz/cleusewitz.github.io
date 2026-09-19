@@ -1,7 +1,7 @@
 {
-  "version": "0.8.1",
-  "versionCode": 11,
-  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.8.1.apk",
-  "notes": "앱 전체 폰트를 프리텐다드(Pretendard)로 바꿨어요. 디자인 시스템에서 지정한 폰트라 제목·본문·숫자가 더 또렷하고 디자인과 일치합니다.",
+  "version": "0.9.0",
+  "versionCode": 12,
+  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.9.0.apk",
+  "notes": "세 가지를 넣었어요. ① 앱 아이콘 — 초록 배경에 렌즈+재생 심볼로 런처 아이콘이 생겼어요(홈 화면에서 바로 알아봐요). ② 하단 내비게이션 — 홈/영상/신고/설정 탭. 홈은 최근 영상+빠른 동작, 영상은 전체 목록, 신고는 영상 골라 신고, 설정은 업데이트·샘플. ③ 갤러리 저장 — 신고 영상을 공유뿐 아니라 사진앱(갤러리)에도 바로 저장할 수 있어요.",
   "htmlUrl": "https://cleusewitz.github.io/dashcam/"
 }
