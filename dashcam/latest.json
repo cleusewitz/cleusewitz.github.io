@@ -1,7 +1,7 @@
 {
-  "version": "0.9.0",
-  "versionCode": 12,
-  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.9.0.apk",
-  "notes": "세 가지를 넣었어요. ① 앱 아이콘 — 초록 배경에 렌즈+재생 심볼로 런처 아이콘이 생겼어요(홈 화면에서 바로 알아봐요). ② 하단 내비게이션 — 홈/영상/신고/설정 탭. 홈은 최근 영상+빠른 동작, 영상은 전체 목록, 신고는 영상 골라 신고, 설정은 업데이트·샘플. ③ 갤러리 저장 — 신고 영상을 공유뿐 아니라 사진앱(갤러리)에도 바로 저장할 수 있어요.",
+  "version": "0.9.1",
+  "versionCode": 13,
+  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.9.1.apk",
+  "notes": "영상 편집 타임라인에 '이벤트 발생 시점'을 빨간 마커로 표시해요. 사고·충격이 언제 일어났는지 타임라인에서 바로 보이고, '이벤트 시점으로' 버튼으로 그 순간으로 이동해 그 지점부터 구간을 잡을 수 있어요. (event.json의 발생시각 기준)",
   "htmlUrl": "https://cleusewitz.github.io/dashcam/"
 }
