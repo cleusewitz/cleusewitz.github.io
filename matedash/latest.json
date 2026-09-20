@@ -1,7 +1,7 @@
 {
-  "version": "1.40.0",
-  "versionCode": 224,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.40.0.apk",
-  "notes": "구간단속 평균속도 경고가 생겼어요. 지금까진 순간속도만 봤는데, 이제 구간단속 구간에 들어가면 평균속도를 계속 계산해서 제한을 넘으면 음성으로 알려줍니다(예: '구간 평균 108, 제한 100 — 속도를 낮추세요'). 클러스터에 현재 구간 평균속도도 표시돼요. (OSM 데이터가 구간 시작/끝을 정확히 안 줘서 진입~이탈 추정으로 동작합니다.)",
+  "version": "1.41.0",
+  "versionCode": 225,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.41.0.apk",
+  "notes": "Tesla API가 꺼지거나 한도 초과여도, 블루투스가 연결돼 있으면 대시보드를 블루투스로 채웁니다. 전엔 API를 끄면 대시보드가 통째로 빈칸이 됐는데, 이제 블루투스로 알 수 있는 건(배터리·주행거리·속도·기어·충전·주행거리계·타이어공기압·위치·미디어·내비) 다 보여줍니다. 공조·잠금 같은 명령은 원래 블루투스라 그대로 되고요.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
