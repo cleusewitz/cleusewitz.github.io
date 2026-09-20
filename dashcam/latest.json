@@ -1,7 +1,7 @@
 {
-  "version": "0.9.2",
-  "versionCode": 14,
-  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.9.2.apk",
-  "notes": "실제 테슬라 USB 대응. 이벤트 하나가 여러 개의 1분 영상으로 저장되던 걸 이제 전부 이어붙여 재생해요(전 버전은 1분만 재생). 타임라인·구간·이벤트 마커도 전체 길이 기준으로 맞춰졌고, 4분할도 이어보기가 됩니다. 최근(RecentClips)의 연속된 1분 조각들은 하나의 주행으로 묶어 목록이 분당으로 늘어나지 않게 했어요. (구간 잘라 저장은 선택 구간이 걸친 세그먼트 하나 기준 — 여러 세그먼트 결합 저장은 추후.)",
+  "version": "0.9.3",
+  "versionCode": 15,
+  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.9.3.apk",
+  "notes": "이벤트 사유를 한국어로 보여줍니다(전엔 user_interaction_honk 같은 영어 코드가 그대로 나왔어요 → '경적으로 저장', '물체 감지' 등). 그리고 첫 웰컴 화면을 세로 중앙으로 정렬해 아래 빈 공간을 없앴습니다.",
   "htmlUrl": "https://cleusewitz.github.io/dashcam/"
 }
