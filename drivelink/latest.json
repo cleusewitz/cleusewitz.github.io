@@ -1,7 +1,7 @@
 {
-  "version": "0.21.0",
-  "versionCode": 50,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.21.0.apk",
-  "notes": "메인 화면에 '블박 뷰어' 카드를 추가했어요. 누르면 블박 뷰어 앱이 열리고(설치돼 있으면), 없으면 설치 페이지로 안내합니다. 드라이브링크는 가볍게 두고 블박은 별도 앱으로 여는 방식이에요.",
+  "version": "0.22.0",
+  "versionCode": 51,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.22.0.apk",
+  "notes": "블루투스로 차 위치를 가져와 '차량 호출 보정'에 씁니다. 전엔 Fleet API(요금·인터넷 필요)로만 위치를 받았는데, 이제 블루투스가 연결돼 있으면 BLE로 위치를 읽어 요금 0·오프라인으로 보정해요. 연결 직후 자동으로 한 번 가져오고, '차 위치 가져오기'도 연결 시 BLE 우선(아니면 Fleet 폴백).",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
