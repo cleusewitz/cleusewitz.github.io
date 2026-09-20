@@ -3,6 +3,5 @@
   "versionCode": 226,
   "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.42.0.apk",
   "notes": "블루투스가 연결돼 있으면 데이터 소스가 뭐든(Tesla API가 연결돼 있어도) 대시보드를 블루투스로 채웁니다. 블루투스가 가장 직접적이고 빠른 소스라, 붙어 있으면 그걸 우선으로 씁니다. 블루투스가 없을 때만 설정한 소스(TeslaMate·Tesla API)를 따릅니다.",
-  "htmlUrl": "https://cleusewitz.github.io/matedash/",
-  "versionCode": 226
+  "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
