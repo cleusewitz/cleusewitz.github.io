@@ -1,7 +1,8 @@
 {
-  "version": "1.41.0",
-  "versionCode": 225,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.41.0.apk",
-  "notes": "Tesla API가 꺼지거나 한도 초과여도, 블루투스가 연결돼 있으면 대시보드를 블루투스로 채웁니다. 전엔 API를 끄면 대시보드가 통째로 빈칸이 됐는데, 이제 블루투스로 알 수 있는 건(배터리·주행거리·속도·기어·충전·주행거리계·타이어공기압·위치·미디어·내비) 다 보여줍니다. 공조·잠금 같은 명령은 원래 블루투스라 그대로 되고요.",
-  "htmlUrl": "https://cleusewitz.github.io/matedash/"
+  "version": "1.42.0",
+  "versionCode": 226,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.42.0.apk",
+  "notes": "블루투스가 연결돼 있으면 데이터 소스가 뭐든(Tesla API가 연결돼 있어도) 대시보드를 블루투스로 채웁니다. 블루투스가 가장 직접적이고 빠른 소스라, 붙어 있으면 그걸 우선으로 씁니다. 블루투스가 없을 때만 설정한 소스(TeslaMate·Tesla API)를 따릅니다.",
+  "htmlUrl": "https://cleusewitz.github.io/matedash/",
+  "versionCode": 226
 }
