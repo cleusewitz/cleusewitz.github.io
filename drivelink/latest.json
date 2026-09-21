@@ -1,7 +1,7 @@
 {
-  "version": "0.23.0",
-  "versionCode": 52,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.23.0.apk",
-  "notes": "블루투스 연결 시 '차 위치 가져오기' 버튼이 바로 뜹니다. 전엔 Tesla 로그인 상태에서만 버튼이 보였는데, 이제 블루투스만 연결돼 있어도 차량 호출 보정 화면에서 버튼을 눌러 BLE로 차 위치를 가져올 수 있어요(요금·인터넷 0). 가져오는 동안 '차에서 위치 읽는 중…' 표시.",
+  "version": "0.24.0",
+  "versionCode": 53,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.24.0.apk",
+  "notes": "위치 버튼 개선: ① 홈 '지금 위치 가져오기'도 블루투스 우선(전엔 Fleet 전용이라 먹통) ② 눌렀을 때 '가져오는 중…' 반응 표시 ③ 차가 같은 자리에 있어도 직접 누르면 '방금 확인'으로 시간 갱신 ④ '방금 위치 받음/못 받음(차 자거나 연결 약함)/블루투스 연결 안 됨'을 명확히 표시 — 갱신된 건지 실패한 건지 헷갈리지 않게.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
