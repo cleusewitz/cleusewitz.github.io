@@ -1,7 +1,7 @@
 {
-  "version": "1.42.0",
-  "versionCode": 226,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.42.0.apk",
-  "notes": "블루투스가 연결돼 있으면 데이터 소스가 뭐든(Tesla API가 연결돼 있어도) 대시보드를 블루투스로 채웁니다. 블루투스가 가장 직접적이고 빠른 소스라, 붙어 있으면 그걸 우선으로 씁니다. 블루투스가 없을 때만 설정한 소스(TeslaMate·Tesla API)를 따릅니다.",
+  "version": "1.43.0",
+  "versionCode": 227,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.43.0.apk",
+  "notes": "자동화 버그 2건을 고쳤어요. ① '주행 N분 후, 조건이면 알림' 규칙이 트리거 시점에 조건이 안 맞으면 그 주행 내내 영영 안 울리던 문제 — 이제 조건이 나중에 충족되면 그때 울립니다(배터리 규칙도 동일). ② Fleet 텔레메트리에서 payload에 숫자가 하나라도 있으면 '문 열림'으로 잘못 잡던 것 — 실제 도어 값(열림/닫힘)만 반영합니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
