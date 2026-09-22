@@ -1,7 +1,7 @@
 {
-  "version": "1.17.0",
-  "versionCode": 114,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.17.0.apk",
-  "notes": "목표 배당 도달 기간이 실제 매수일(거래일)을 반영합니다. 예전엔 '매일 적립'을 달력 365일로 쳐서 배당이 실제보다 빨리 느는 것처럼 나왔는데, 장은 주말·공휴일 빼고 연 ~252일만 열립니다. 이제 거래일 기준으로 계산해 '목표까지 몇 년 몇 개월'이 실제 매수 속도와 맞고, '장 열리는 날만 매수 기준' 문구도 표시합니다.",
+  "version": "1.18.0",
+  "versionCode": 115,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.18.0.apk",
+  "notes": "달러 자산 평가 정확도 개선. 예전엔 달러 금액을 정수로 자른 뒤 환율을 곱해 보유마다 최대 ~₩1,350씩 어긋났는데(총자산·리밸런싱·수익에 누적) 이제 센트까지 반영합니다. 그리고 시세 새로고침 때 USD/KRW 환율도 최신으로 함께 갱신해 달러 평가액이 옛 환율로 굳지 않습니다.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
