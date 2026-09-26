@@ -1,7 +1,7 @@
 {
-  "version": "1.43.0",
-  "versionCode": 227,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.43.0.apk",
-  "notes": "자동화 버그 2건을 고쳤어요. ① '주행 N분 후, 조건이면 알림' 규칙이 트리거 시점에 조건이 안 맞으면 그 주행 내내 영영 안 울리던 문제 — 이제 조건이 나중에 충족되면 그때 울립니다(배터리 규칙도 동일). ② Fleet 텔레메트리에서 payload에 숫자가 하나라도 있으면 '문 열림'으로 잘못 잡던 것 — 실제 도어 값(열림/닫힘)만 반영합니다.",
+  "version": "1.44.0",
+  "versionCode": 228,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.44.0.apk",
+  "notes": "① 텔레메트리 단독 모드에서 주차해도 '주행 중'에 굳어 주행기록이 저장되지 않고 도착 자동화가 안 뜨던 문제를 고쳤어요(P/N 기어면 주행 종료로 처리). ② 실시간 상태가 여러 경로(텔레메트리·MQTT)에서 동시에 들어올 때 서로 덮어써 값이 튀던 걸 원자적 갱신으로 안정화. ③ 창문 열림 표시가 마지막에 온 창문 하나로 덮어써지던 걸 네 창문 각각 반영해 정확히 표시.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
