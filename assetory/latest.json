@@ -1,7 +1,7 @@
 {
-  "version": "1.18.0",
-  "versionCode": 115,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.18.0.apk",
-  "notes": "달러 자산 평가 정확도 개선. 예전엔 달러 금액을 정수로 자른 뒤 환율을 곱해 보유마다 최대 ~₩1,350씩 어긋났는데(총자산·리밸런싱·수익에 누적) 이제 센트까지 반영합니다. 그리고 시세 새로고침 때 USD/KRW 환율도 최신으로 함께 갱신해 달러 평가액이 옛 환율로 굳지 않습니다.",
+  "version": "1.19.0",
+  "versionCode": 116,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.19.0.apk",
+  "notes": "수익률·비중 정확도 수정. ① 자산탭 수익률이 현금을 분모에 넣어 홈 화면(현금 제외)과 달라지던 문제를 홈과 동일 기준으로 통일했어요. ② 종목 비중(%)이 환율을 반영하지 않아 달러 종목 비중이 실제보다 크게 축소돼 보이던 문제를 원화 환산 기준으로 정확히 계산합니다. ③ 타임라인 스냅샷 수익률도 같은 기준(현금 제외)으로 통일.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
