@@ -1,7 +1,7 @@
 {
-  "version": "0.9.5",
-  "versionCode": 17,
-  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.9.5.apk",
-  "notes": "① 선택 구간이 여러 영상 조각(세그먼트)에 걸쳐도 끊김 없이 이어붙여 저장돼요 — 전엔 첫 조각까지만 잘려 신고용 구간이 소리 없이 잘렸어요. ② 앱을 백그라운드로 보내면 영상 재생이 멈춰 배터리 소모를 줄였어요(전엔 화면이 꺼져도 계속 디코딩). ③ USB를 뺀 채 앱을 열면 '연결됨·0건'으로 잘못 뜨던 걸 가져오기 화면으로 되돌아가게 고쳤어요.",
+  "version": "0.9.6",
+  "versionCode": 18,
+  "apkUrl": "https://cleusewitz.github.io/dashcam/DashCam-0.9.6.apk",
+  "notes": "① 4분할 재생 시 네 각도가 시간이 갈수록 어긋나던 것 수정 — 전방을 기준으로 자동 재싱크해 함께 맞춰 재생돼요. ② 필름스트립의 빨간 '사고 시점' 마커가 트림 슬라이더 핸들과 좌표가 어긋나 보이던 것을 같은 위치로 정렬. ③ 카메라 각도를 바꾸면 잡아둔 자르기 구간이 이전 각도 값으로 남던 것을 리셋.",
   "htmlUrl": "https://cleusewitz.github.io/dashcam/"
 }
