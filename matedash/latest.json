@@ -1,7 +1,7 @@
 {
-  "version": "1.49.0",
-  "versionCode": 233,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.49.0.apk",
-  "notes": "클러스터 디자인1에도 주차/충전 모드를 적용했어요. 이제 디자인1·디자인2 둘 다, 주차(P) 중이면 가운데가 배터리 상태로, 충전 중이면 충전 화면(SOC·전력·완료까지 시간)으로 바뀌고, 주행 중엔 속도계로 돌아옵니다.",
+  "version": "1.50.0",
+  "versionCode": 234,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.50.0.apk",
+  "notes": "클러스터 미리보기(더미) 추가 — 설정 > 클러스터 > '미리보기(더미)'에서 주행/주차/충전을 고르면 실차 없이도 각 클러스터 화면을 바로 확인할 수 있어요(가로·클러스터 화면에서 표시). 앱을 다시 켜면 자동으로 꺼집니다. (주차→배터리, 충전→충전화면, 주행→속도계 UI를 눈으로 확인용)",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
