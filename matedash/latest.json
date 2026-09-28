@@ -1,7 +1,7 @@
 {
-  "version": "1.46.0",
-  "versionCode": 230,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.46.0.apk",
-  "notes": "충전량이 말도 안 되게 크게(예: 858kWh) 잡히던 버그 수정. 충전 중 앱이 절전·백그라운드로 상태 폴링이 오래 끊겼다 재개되면 그 공백 시간이 통째로 '충전량'으로 적분돼 생긴 문제였어요. 이제 배터리 증가분(SOC)으로 물리적으로 불가능한 값은 상한으로 막아, 실제 충전량 범위로만 기록됩니다. (이미 잘못 기록된 항목은 기록 화면에서 삭제하면 됩니다.)",
+  "version": "1.47.0",
+  "versionCode": 231,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.47.0.apk",
+  "notes": "충전 모드 클러스터 추가 — 충전 중이면 클러스터 중앙이 0km/h 속도계 대신 충전 화면으로 바뀝니다. 현재 배터리(SOC) 링과 목표 %, 충전 전력(kW), 완료까지 남은 시간, 이번 세션 추가된 kWh를 크게 보여줘요. 충전이 끝나거나 주행을 시작하면 원래 속도계로 자동 복귀합니다. (가로·세로 클러스터 모두 적용)",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
