@@ -1,7 +1,7 @@
 {
-  "version": "1.45.0",
-  "versionCode": 229,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.45.0.apk",
-  "notes": "① 제한속도·과속단속카메라 경고 음성을 Gemini 고품질 음성으로도 낼 수 있게 연결했어요 — 자동화에서 'AI 보이스'를 골라두면 경고도 그 음성으로 나가고, 합성이 안 되면 기기 음성으로 자동 폴백합니다. ② 데모 모드에서 상단에 '차량 상태를 받는 중…'이 뜨던 문구를 '데모 데이터 표시 중'으로 정리. ③ 음수 거리 표기가 '-,123'처럼 깨지던 콤마 버그 수정.",
+  "version": "1.46.0",
+  "versionCode": 230,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.46.0.apk",
+  "notes": "충전량이 말도 안 되게 크게(예: 858kWh) 잡히던 버그 수정. 충전 중 앱이 절전·백그라운드로 상태 폴링이 오래 끊겼다 재개되면 그 공백 시간이 통째로 '충전량'으로 적분돼 생긴 문제였어요. 이제 배터리 증가분(SOC)으로 물리적으로 불가능한 값은 상한으로 막아, 실제 충전량 범위로만 기록됩니다. (이미 잘못 기록된 항목은 기록 화면에서 삭제하면 됩니다.)",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
