@@ -1,7 +1,7 @@
 {
-  "version": "1.51.0",
-  "versionCode": 235,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.51.0.apk",
-  "notes": "충전·주차 게이지 디자인 개선. 밋밋한 라인 대신 속도계와 같은 그라데이션·글로우·눈금을 입혔고, 배터리 잔량에 따라 색(높음 초록·중간 노랑·낮음 빨강)이 바뀝니다. 게이지를 살짝 키우고 가운데 글씨가 넘치지 않게 줄 수를 정리했어요(충전: 전력·완료시간 한 줄로).",
+  "version": "1.52.0",
+  "versionCode": 236,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.52.0.apk",
+  "notes": "충전·주차 클러스터 정리(중복 제거). ① 충전 중 상단 중복 pill 제거 — 충전구 열림·로그만 우측 고정 ② 하단 바를 상태별로: 충전=전력·전압·전류·누적kWh / 주차=ODO·SW·실외온도 / 주행=배터리(그대로) ③ 우측 카드도 상태별: 충전=전압·전류·누적 / 주차=현재위치·실내외온도. 주행 화면은 변경 없음.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
