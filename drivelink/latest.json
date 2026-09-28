@@ -1,7 +1,7 @@
 {
-  "version": "0.27.0",
-  "versionCode": 56,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.27.0.apk",
-  "notes": "안전·안정성 버그 3건 수정. ① 애프터블로우가 실패로 끝났을 때 안전복구가 스스로 꺼지던 문제 — 이제 명령이 실패하면 다시 연결됐을 때 공조를 끄고 창문을 닫습니다(창문 열린 채 방치 방지). ② '차 위치 가져오기' 버튼이 엉뚱한 요청을 보내 실패하거나 옛 좌표를 넘기던 문제를 올바른 위치 요청으로 수정. ③ 설정이 여러 경로에서 동시에 저장될 때 서로 덮어써 로그인 토큰이 유실될 수 있던 경합 제거(원자적 저장).",
+  "version": "0.28.0",
+  "versionCode": 57,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.28.0.apk",
+  "notes": "코드감사 반영 보안·안정성 수정 3건. ① 테슬라 로그인 토큰과 BLE 차량 명령용 개인키를 클라우드 백업·기기 이관 대상에서 제외해 백업본 유출 경로를 차단했습니다. ② 위치 주입 서비스가 Android 14+에서 약 6시간 뒤 조용히 멈추던 문제 — 포그라운드 서비스 타입을 location으로 지정해 해소. ③ 좌표가 빈 채로 오는 응답을 '차량 절전'과 구분해, 위치 권한(scope) 확인이 필요하다고 안내하도록 개선.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
