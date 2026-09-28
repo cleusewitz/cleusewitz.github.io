@@ -1,7 +1,7 @@
 {
-  "version": "1.50.0",
-  "versionCode": 234,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.50.0.apk",
-  "notes": "클러스터 미리보기(더미) 추가 — 설정 > 클러스터 > '미리보기(더미)'에서 주행/주차/충전을 고르면 실차 없이도 각 클러스터 화면을 바로 확인할 수 있어요(가로·클러스터 화면에서 표시). 앱을 다시 켜면 자동으로 꺼집니다. (주차→배터리, 충전→충전화면, 주행→속도계 UI를 눈으로 확인용)",
+  "version": "1.51.0",
+  "versionCode": 235,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.51.0.apk",
+  "notes": "충전·주차 게이지 디자인 개선. 밋밋한 라인 대신 속도계와 같은 그라데이션·글로우·눈금을 입혔고, 배터리 잔량에 따라 색(높음 초록·중간 노랑·낮음 빨강)이 바뀝니다. 게이지를 살짝 키우고 가운데 글씨가 넘치지 않게 줄 수를 정리했어요(충전: 전력·완료시간 한 줄로).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
