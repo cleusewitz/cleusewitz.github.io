@@ -1,7 +1,7 @@
 {
-  "version": "1.44.0",
-  "versionCode": 228,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.44.0.apk",
-  "notes": "① 텔레메트리 단독 모드에서 주차해도 '주행 중'에 굳어 주행기록이 저장되지 않고 도착 자동화가 안 뜨던 문제를 고쳤어요(P/N 기어면 주행 종료로 처리). ② 실시간 상태가 여러 경로(텔레메트리·MQTT)에서 동시에 들어올 때 서로 덮어써 값이 튀던 걸 원자적 갱신으로 안정화. ③ 창문 열림 표시가 마지막에 온 창문 하나로 덮어써지던 걸 네 창문 각각 반영해 정확히 표시.",
+  "version": "1.45.0",
+  "versionCode": 229,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.45.0.apk",
+  "notes": "① 제한속도·과속단속카메라 경고 음성을 Gemini 고품질 음성으로도 낼 수 있게 연결했어요 — 자동화에서 'AI 보이스'를 골라두면 경고도 그 음성으로 나가고, 합성이 안 되면 기기 음성으로 자동 폴백합니다. ② 데모 모드에서 상단에 '차량 상태를 받는 중…'이 뜨던 문구를 '데모 데이터 표시 중'으로 정리. ③ 음수 거리 표기가 '-,123'처럼 깨지던 콤마 버그 수정.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
