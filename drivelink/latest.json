@@ -1,7 +1,7 @@
 {
-  "version": "0.26.0",
-  "versionCode": 55,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.26.0.apk",
-  "notes": "애프터블로우 작동 시간을 1~5분으로 조정했어요(잘 안 쓰는 30분 옵션 제거, 기본 3분). 연결 안내 문구도 실제 메뉴 경로(설정 > 차량 > '블루투스로 차와 연결')로 정확히 안내하도록 다듬었어요.",
+  "version": "0.27.0",
+  "versionCode": 56,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.27.0.apk",
+  "notes": "안전·안정성 버그 3건 수정. ① 애프터블로우가 실패로 끝났을 때 안전복구가 스스로 꺼지던 문제 — 이제 명령이 실패하면 다시 연결됐을 때 공조를 끄고 창문을 닫습니다(창문 열린 채 방치 방지). ② '차 위치 가져오기' 버튼이 엉뚱한 요청을 보내 실패하거나 옛 좌표를 넘기던 문제를 올바른 위치 요청으로 수정. ③ 설정이 여러 경로에서 동시에 저장될 때 서로 덮어써 로그인 토큰이 유실될 수 있던 경합 제거(원자적 저장).",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
