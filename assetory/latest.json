@@ -1,7 +1,7 @@
 {
-  "version": "1.20.0",
-  "versionCode": 119,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.20.0.apk",
-  "notes": "배당 탭에서 같은 종목이 두 줄로 나오던 문제를 고쳤어요 — 같은 ETF를 이름을 다르게 넣거나 증권사·계좌(그룹)별로 나눠 보유하면 배당이 따로 계산돼 두 줄로 보였는데, 이제 티커가 같으면 한 줄로 합쳐 수량을 더해 보여줍니다(예: 427주 + 347주 = 774주). 그리고 리밸런싱에 AI 추천이 생겼어요 — 설정 > AI 추천(Gemini)에 키를 넣으면, 리밸런싱 탭에서 포트폴리오를 분석해 묶음별 목표 비중과 과집중 조정을 제안받고 바로 세트로 적용할 수 있습니다. 키는 이 기기에만 저장돼요.",
+  "version": "1.20.1",
+  "versionCode": 120,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.20.1.apk",
+  "notes": "AI 추천 상세에 '이 비율로 바꾸면 배당이 어떻게 변하는지'(지금 대비 연 배당 증감·%·월평균, 적립 지속 시 1·3·5년)가 함께 나옵니다.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
