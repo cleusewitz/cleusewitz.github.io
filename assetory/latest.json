@@ -1,7 +1,7 @@
 {
-  "version": "1.21.2",
-  "versionCode": 125,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.21.2.apk",
-  "notes": "JEPQ·QQQI 등 커버드콜/인컴형 ETF는 배당 성장률 0으로 제외, 온전한 연도 판정을 지급횟수 중앙값 기준으로 정교화.",
+  "version": "1.21.3",
+  "versionCode": 126,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.21.3.apk",
+  "notes": "MSTY·GDXY 등 초고배당 옵션형 ETF는 TTM 대신 최근 3개월 연환산으로 배당 계산 — 리밸런싱 후·연도별 배당이 현실적인 값으로.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
