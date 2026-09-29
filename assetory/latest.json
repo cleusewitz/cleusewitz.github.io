@@ -1,7 +1,7 @@
 {
-  "version": "1.26.2",
-  "versionCode": 138,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.26.2.apk",
-  "notes": "매수일을 더 과거로 바꿔도(예: 9월→1월) 이전 구간 자산 추이가 비던 문제 수정 — 추가·수정 시 필요한 시작일까지 과거 시세를 자동 재조회.",
+  "version": "1.26.3",
+  "versionCode": 139,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.26.3.apk",
+  "notes": "보유 자산 목록에서 종목을 왼쪽으로 밀면 삭제(확인 후). 그동안 편집 화면에서만 가능했던 삭제를 목록에서 바로.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
