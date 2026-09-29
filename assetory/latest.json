@@ -1,7 +1,7 @@
 {
-  "version": "1.22.0",
-  "versionCode": 130,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.22.0.apk",
-  "notes": "토스 가져오기가 전량 매도한 종목을 자동 삭제 + 설정 메뉴를 카테고리 2단계 구조로 정리.",
+  "version": "1.23.0",
+  "versionCode": 131,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.23.0.apk",
+  "notes": "계좌별 고유 색점·이니셜 아바타로 보유 자산 리스트 새 단장(토스 초록·연금 파랑·퇴직 보라 등).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
