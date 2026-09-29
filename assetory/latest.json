@@ -1,7 +1,7 @@
 {
-  "version": "1.21.0",
-  "versionCode": 123,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.21.0.apk",
-  "notes": "리밸런싱 세트마다 적립 계획을 따로 설정할 수 있고, SCHD처럼 배당이 매년 느는 ETF의 배당 성장률을 1·3·5년 예측에 반영합니다.",
+  "version": "1.21.1",
+  "versionCode": 124,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.21.1.apk",
+  "notes": "YieldMax류 초고배당 ETF의 배당 성장률을 과대추정하던 버그 수정 — 부분 연도 제외 + 초고배당 성장률 캡 적용.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
