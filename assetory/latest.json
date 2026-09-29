@@ -1,7 +1,7 @@
 {
-  "version": "1.26.0",
-  "versionCode": 136,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.26.0.apk",
-  "notes": "가짜(디코이) 비밀번호 모드가 진짜와 격리된 빈 샌드박스로 동작 — 모든 기능 그대로 사용 가능, 진짜 자산엔 영향 없음.",
+  "version": "1.26.1",
+  "versionCode": 137,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.26.1.apk",
+  "notes": "종목 추가·편집에서 단가를 비우면 자동 조회한 현재가를 매입 단가로 사용(수량만 입력하면 손익 0에서 시작).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
