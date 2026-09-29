@@ -1,7 +1,7 @@
 {
-  "version": "1.23.0",
-  "versionCode": 131,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.23.0.apk",
-  "notes": "계좌별 고유 색점·이니셜 아바타로 보유 자산 리스트 새 단장(토스 초록·연금 파랑·퇴직 보라 등).",
+  "version": "1.24.0",
+  "versionCode": 132,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.24.0.apk",
+  "notes": "보유 자산 화면을 새 디자인으로 재구성 — 킷 아이콘 적용(검색·더보기·추가·셰브론), 계좌 기본 접힘, 계좌 비중 막대, 종목 카드(이니셜 아바타·스파크라인·평균단가·손익), 다크 테마.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
