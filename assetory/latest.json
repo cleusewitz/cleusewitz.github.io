@@ -1,7 +1,7 @@
 {
-  "version": "1.26.3",
-  "versionCode": 139,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.26.3.apk",
-  "notes": "보유 자산 목록에서 종목을 왼쪽으로 밀면 삭제(확인 후). 그동안 편집 화면에서만 가능했던 삭제를 목록에서 바로.",
+  "version": "1.27.0",
+  "versionCode": 140,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.27.0.apk",
+  "notes": "배당 추가 시 1회/매주/매월/매분기 선택 — 반복이면 1회분 금액이 주기대로 나뉘어 표시(주배당은 월 4~5건). 기존 기록은 1회 유지.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
