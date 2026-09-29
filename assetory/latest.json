@@ -1,7 +1,7 @@
 {
-  "version": "1.21.1",
-  "versionCode": 124,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.21.1.apk",
-  "notes": "YieldMax류 초고배당 ETF의 배당 성장률을 과대추정하던 버그 수정 — 부분 연도 제외 + 초고배당 성장률 캡 적용.",
+  "version": "1.21.2",
+  "versionCode": 125,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.21.2.apk",
+  "notes": "JEPQ·QQQI 등 커버드콜/인컴형 ETF는 배당 성장률 0으로 제외, 온전한 연도 판정을 지급횟수 중앙값 기준으로 정교화.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
