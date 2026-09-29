@@ -1,7 +1,7 @@
 {
-  "version": "1.21.5",
-  "versionCode": 128,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.21.5.apk",
-  "notes": "세트마다 다르게 보이던 '지금 연 배당'을 전체 포트폴리오 기준으로 통일(배당 성장 카드 · AI 추천 카드 일치).",
+  "version": "1.21.6",
+  "versionCode": 129,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.21.6.apk",
+  "notes": "하나의 평균 성장률 대신 종목별 성장률로 배당 복리 계산(SCHD는 실제 성장률, 인컴형은 0).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
