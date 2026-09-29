@@ -1,7 +1,7 @@
 {
-  "version": "1.21.4",
-  "versionCode": 127,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.21.4.apk",
-  "notes": "같은 종목 매수 안내를 계좌 구분 없이 한 줄로 합산 + AI 추천이 금융소득종합과세를 고려해 세금효율 높은 인컴 종목을 우선 제안.",
+  "version": "1.21.5",
+  "versionCode": 128,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.21.5.apk",
+  "notes": "세트마다 다르게 보이던 '지금 연 배당'을 전체 포트폴리오 기준으로 통일(배당 성장 카드 · AI 추천 카드 일치).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
