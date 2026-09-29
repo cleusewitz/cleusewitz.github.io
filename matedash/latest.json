@@ -1,7 +1,7 @@
 {
-  "version": "1.52.0",
-  "versionCode": 236,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.52.0.apk",
-  "notes": "충전·주차 클러스터 정리(중복 제거). ① 충전 중 상단 중복 pill 제거 — 충전구 열림·로그만 우측 고정 ② 하단 바를 상태별로: 충전=전력·전압·전류·누적kWh / 주차=ODO·SW·실외온도 / 주행=배터리(그대로) ③ 우측 카드도 상태별: 충전=전압·전류·누적 / 주차=현재위치·실내외온도. 주행 화면은 변경 없음.",
+  "version": "1.53.0",
+  "versionCode": 237,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.53.0.apk",
+  "notes": "코드감사 수정 3건: ① 충전량 SOC 상한 클램프를 SOC 0% 증가 구간에도 적용해 유령 kWh(858kWh류) 방지 ② 제한속도 정보 없는 구역에서 이전 제한값이 남아 과속 오경보 내던 문제 수정 ③ 카메라 경고 dedup 맵 동시성 크래시 방지.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
