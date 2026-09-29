@@ -1,7 +1,7 @@
 {
-  "version": "1.25.0",
-  "versionCode": 134,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.25.0.apk",
-  "notes": "종목 추가·편집 화면을 새 디자인으로 — 타입 아이콘, 다크 입력 필드, 그룹 칩, 분할매수 표, 하단 고정 저장, 삭제 확인. 카드 상세도 같은 다크 톤.",
+  "version": "1.25.1",
+  "versionCode": 135,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.25.1.apk",
+  "notes": "앱 아이콘을 새 디자인으로 교체(적응형+모노크롬 테마 아이콘).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
