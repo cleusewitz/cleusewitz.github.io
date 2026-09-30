@@ -1,7 +1,7 @@
 {
-  "version": "1.27.1",
-  "versionCode": 141,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.27.1.apk",
-  "notes": "미국 종목 배당 지급주기를 일 단위로 인식 — GDXY 등 주배당이 배당 탭 미래 예상에 매주로 반영됩니다.",
+  "version": "1.28.0",
+  "versionCode": 142,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.28.0.apk",
+  "notes": "종목 상세를 개요·차트·매수 내역 탭으로 재디자인. 차트에 내 평단 기준선 + 터치로 가격 읽기 + 기간 칩(1/3/6개월/전체).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
