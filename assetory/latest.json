@@ -1,7 +1,7 @@
 {
-  "version": "1.27.0",
-  "versionCode": 140,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.27.0.apk",
-  "notes": "배당 추가 시 1회/매주/매월/매분기 선택 — 반복이면 1회분 금액이 주기대로 나뉘어 표시(주배당은 월 4~5건). 기존 기록은 1회 유지.",
+  "version": "1.27.1",
+  "versionCode": 141,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.27.1.apk",
+  "notes": "미국 종목 배당 지급주기를 일 단위로 인식 — GDXY 등 주배당이 배당 탭 미래 예상에 매주로 반영됩니다.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
