@@ -1,7 +1,7 @@
 {
-  "version": "1.28.1",
-  "versionCode": 143,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.28.1.apk",
-  "notes": "탭 전환 시 시트 크기가 안 바뀌고 처음 열린 크기 그대로 유지, 내용은 시트 안에서 스크롤.",
+  "version": "1.28.2",
+  "versionCode": 144,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.28.2.apk",
+  "notes": "포트폴리오 상단 실시간 갱신 표시가 뒤늦게 떠서 레이아웃이 덜컹이던 것 수정 — 처음부터 자리를 잡아둠.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
