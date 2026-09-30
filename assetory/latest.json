@@ -1,7 +1,7 @@
 {
-  "version": "1.28.2",
-  "versionCode": 144,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.28.2.apk",
-  "notes": "포트폴리오 상단 실시간 갱신 표시가 뒤늦게 떠서 레이아웃이 덜컹이던 것 수정 — 처음부터 자리를 잡아둠.",
+  "version": "1.29.0",
+  "versionCode": 145,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.29.0.apk",
+  "notes": "설정에서 라이트/다크/시스템 테마 선택(기본 라이트), 자산 화면도 테마 따라감. 시트 열린 상태 뒤로가기가 홈으로 튕기지 않고 시트만 닫힘.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
