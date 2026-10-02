@@ -1,7 +1,7 @@
 {
-  "version": "1.29.0",
-  "versionCode": 145,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.29.0.apk",
-  "notes": "설정에서 라이트/다크/시스템 테마 선택(기본 라이트), 자산 화면도 테마 따라감. 시트 열린 상태 뒤로가기가 홈으로 튕기지 않고 시트만 닫힘.",
+  "version": "1.30.0",
+  "versionCode": 146,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.30.0.apk",
+  "notes": "기록 탭을 차트 중심형으로 재디자인 — 자산 추이(총자산·계좌별·월말 추이 라인차트·월별 변동/변화원인) + 배당(받은+예정 요약·월별 막대+연 누적선·다가오는 배당·월별 종목 내역).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
