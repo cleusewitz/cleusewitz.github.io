@@ -1,7 +1,7 @@
 {
-  "version": "1.31.1",
-  "versionCode": 148,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.31.1.apk",
-  "notes": "세트 만들기/편집 시트에서 종목 목록이 스크롤되지 않던 문제 수정.",
+  "version": "1.32.0",
+  "versionCode": 149,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.32.0.apk",
+  "notes": "홈을 히어로 통합형으로 재디자인(총자산·추이·구성·목표·한 줄 인사이트, 기간 세그먼트 '전체' 포함). 설정을 그룹 리스트형으로 정리(제목 중복 제거, 화면당 주 버튼 1개, 키 삭제는 빨간 버튼).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
