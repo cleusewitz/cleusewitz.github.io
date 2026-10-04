@@ -1,7 +1,7 @@
 {
-  "version": "1.32.0",
-  "versionCode": 149,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.32.0.apk",
-  "notes": "홈을 히어로 통합형으로 재디자인(총자산·추이·구성·목표·한 줄 인사이트, 기간 세그먼트 '전체' 포함). 설정을 그룹 리스트형으로 정리(제목 중복 제거, 화면당 주 버튼 1개, 키 삭제는 빨간 버튼).",
+  "version": "1.33.0",
+  "versionCode": 150,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.33.0.apk",
+  "notes": "리밸런싱 세트 상세 화면 추가 — 세트 안에서 종목별 비중을 직접 조정(이전엔 현재 비율 고정), 조정한 비율대로 종목별 매수 계획 표시, 목표 연배당·적립·1/3/5년 배당 성장까지 한 곳에.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
