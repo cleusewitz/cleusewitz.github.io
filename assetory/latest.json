@@ -1,7 +1,7 @@
 {
-  "version": "1.34.0",
-  "versionCode": 151,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.34.0.apk",
-  "notes": "리밸런싱 세트를 두 겹 구조로 복원 — 세트 하나에 묶음 여러 개(예: 묶음A 70% · 묶음B 30%, 합 100), 묶음마다 종목을 담아 목표 비중대로 매수/매도 계산. 세트 상세에 배당 성장·적립 계획도 복원.",
+  "version": "1.35.0",
+  "versionCode": 152,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.35.0.apk",
+  "notes": "수입 대체/생활비 분석 추가 — 월 생활비만 넣으면 지금 자산·배당으로 ①생활비 중 배당 커버율 ②수입 0일 때 버티는 기간 ③완전 자립까지 더 필요한 배당·자산 ④4% 룰 안전 인출액을 보여줘, 수입이 끊기거나 줄 때 대비를 돕습니다.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
