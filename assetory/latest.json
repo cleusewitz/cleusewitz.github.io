@@ -1,7 +1,7 @@
 {
-  "version": "1.35.0",
-  "versionCode": 152,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.35.0.apk",
-  "notes": "수입 대체/생활비 분석 추가 — 월 생활비만 넣으면 지금 자산·배당으로 ①생활비 중 배당 커버율 ②수입 0일 때 버티는 기간 ③완전 자립까지 더 필요한 배당·자산 ④4% 룰 안전 인출액을 보여줘, 수입이 끊기거나 줄 때 대비를 돕습니다.",
+  "version": "1.36.0",
+  "versionCode": 153,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.36.0.apk",
+  "notes": "리밸런싱 세트 상세에 '이 세트대로 하면' 변화 카드 추가 — 지금→적용 후로 연·월 배당, 생활비 커버율(수입 대체 분석의 월 생활비 연동), 가장 큰 종목의 집중도 변화를 한눈에.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
