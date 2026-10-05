@@ -1,7 +1,7 @@
 {
-  "version": "1.36.0",
-  "versionCode": 153,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.36.0.apk",
-  "notes": "리밸런싱 세트 상세에 '이 세트대로 하면' 변화 카드 추가 — 지금→적용 후로 연·월 배당, 생활비 커버율(수입 대체 분석의 월 생활비 연동), 가장 큰 종목의 집중도 변화를 한눈에.",
+  "version": "1.37.0",
+  "versionCode": 154,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.37.0.apk",
+  "notes": "수입 대체 분석에 '리밸런싱 세트 적용 시뮬' 추가 — 저장한 세트를 고르면 생활비 커버율·월 배당·버티는 기간·자립 부족분이 지금→적용 후로 어떻게 바뀌는지 보여줍니다(세트↔수입 양방향 연결).",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
