@@ -1,7 +1,7 @@
 {
-  "version": "1.37.0",
-  "versionCode": 154,
-  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.37.0.apk",
-  "notes": "수입 대체 분석에 '리밸런싱 세트 적용 시뮬' 추가 — 저장한 세트를 고르면 생활비 커버율·월 배당·버티는 기간·자립 부족분이 지금→적용 후로 어떻게 바뀌는지 보여줍니다(세트↔수입 양방향 연결).",
+  "version": "1.38.0",
+  "versionCode": 155,
+  "apkUrl": "https://cleusewitz.github.io/assetory/Assetory-1.38.0.apk",
+  "notes": "세트 상세 개선 — 매수/매도 제안에 묶음별 보유 주수·현재 금액 표시, 목표 배당 '더 사면 돼요'를 전 종목 나열 대신 '묶음 목표 비중(예: 70/30)을 지킨 채 목표 배당에 맞춰 묶음별로 얼마 사야 하는지'로 바꿈.",
   "htmlUrl": "https://cleusewitz.github.io/assetory/"
 }
