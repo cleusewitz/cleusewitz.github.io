@@ -1,7 +1,7 @@
 {
-  "version": "1.54.0",
-  "versionCode": 238,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.54.0.apk",
-  "notes": "설정 › 차량 소스에 '배터리 용량(kWh)' 입력을 추가했습니다. 충전 기록이 하나도 없어도 배터리 총용량을 넣으면 주행 에너지·전비가 바로 계산됩니다. 모델별 프리셋(모델3/Y 롱레인지·RWD, 모델S·X) 제공. 충전 기록이 쌓이면 실측값을 우선 사용합니다.",
+  "version": "1.55.0",
+  "versionCode": 239,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.55.0.apk",
+  "notes": "VIN 차종으로 배터리 용량을 자동 적용해, 설정에 안 넣어도 에너지·전비가 바로 나옵니다(변종 다르면 프리셋/충전 기록으로 정확히 보정).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
