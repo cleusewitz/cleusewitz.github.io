@@ -1,7 +1,7 @@
 {
-  "version": "1.53.0",
-  "versionCode": 237,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.53.0.apk",
-  "notes": "코드감사 수정 3건: ① 충전량 SOC 상한 클램프를 SOC 0% 증가 구간에도 적용해 유령 kWh(858kWh류) 방지 ② 제한속도 정보 없는 구역에서 이전 제한값이 남아 과속 오경보 내던 문제 수정 ③ 카메라 경고 dedup 맵 동시성 크래시 방지.",
+  "version": "1.54.0",
+  "versionCode": 238,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.54.0.apk",
+  "notes": "설정 › 차량 소스에 '배터리 용량(kWh)' 입력을 추가했습니다. 충전 기록이 하나도 없어도 배터리 총용량을 넣으면 주행 에너지·전비가 바로 계산됩니다. 모델별 프리셋(모델3/Y 롱레인지·RWD, 모델S·X) 제공. 충전 기록이 쌓이면 실측값을 우선 사용합니다.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
