@@ -1,7 +1,7 @@
 {
-  "version": "1.55.0",
-  "versionCode": 239,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.55.0.apk",
-  "notes": "VIN 차종으로 배터리 용량을 자동 적용해, 설정에 안 넣어도 에너지·전비가 바로 나옵니다(변종 다르면 프리셋/충전 기록으로 정확히 보정).",
+  "version": "1.56.0",
+  "versionCode": 240,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.56.0.apk",
+  "notes": "최근 앱(멀티태스킹)에서 다시 들어갈 때 '앱을 열지 못했다'가 뜨던 문제 완화(삼성).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
