@@ -1,7 +1,7 @@
 {
-  "version": "0.33.0",
-  "versionCode": 62,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.33.0.apk",
-  "notes": "상단 헤더·설정 뒤로가기 고정(스크롤해도 안 움직임), 차 이름·연결상태를 이미지 위로, 블루투스/Tesla API 상태 가로 배치.",
+  "version": "0.34.0",
+  "versionCode": 63,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.34.0.apk",
+  "notes": "차 카드 정리: 이름 옆에 연결상태 한 줄, 여백 추가, 블루투스 상태를 한 줄로 고정(긴 메시지로 카드가 늘어나지 않게).",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
