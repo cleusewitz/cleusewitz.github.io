@@ -1,7 +1,7 @@
 {
-  "version": "0.31.0",
-  "versionCode": 60,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.31.0.apk",
-  "notes": "홈 차 그림 아래에 블루투스·테슬라 계정(API) 연결 상태를 함께 표시합니다.",
+  "version": "0.32.0",
+  "versionCode": 61,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.32.0.apk",
+  "notes": "홈 차 그림과 연결 상태를 한 장의 카드로 통합(오른쪽 차 아이콘 제거).",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
