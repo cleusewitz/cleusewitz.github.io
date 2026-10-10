@@ -1,7 +1,7 @@
 {
-  "version": "1.56.0",
-  "versionCode": 240,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.56.0.apk",
-  "notes": "최근 앱(멀티태스킹)에서 다시 들어갈 때 '앱을 열지 못했다'가 뜨던 문제 완화(삼성).",
+  "version": "1.57.0",
+  "versionCode": 241,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.57.0.apk",
+  "notes": "설정 › 차량 소스에서 '백그라운드 연결 유지'를 켜면, 앱이 백그라운드로 가도 블루투스 연결을 유지하고 알림에 주행/충전 상태와 속도·배터리를 표시합니다(기본 꺼짐).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
