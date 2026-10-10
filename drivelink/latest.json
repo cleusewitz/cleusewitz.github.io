@@ -1,7 +1,7 @@
 {
-  "version": "0.35.0",
-  "versionCode": 64,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.35.0.apk",
-  "notes": "연결 상태를 차 이름 옆 칩으로 표시(MateDash 스타일), 블루투스/Tesla API 두 줄은 제거해 카드를 깔끔하게.",
+  "version": "0.36.0",
+  "versionCode": 65,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.36.0.apk",
+  "notes": "차 이름+상태 칩을 그림 위 헤더로 올려 차량과 겹치지 않게 정리(여백 추가).",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
