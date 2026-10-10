@@ -1,7 +1,7 @@
 {
-  "version": "0.28.0",
-  "versionCode": 57,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.28.0.apk",
-  "notes": "코드감사 반영 보안·안정성 수정 3건. ① 테슬라 로그인 토큰과 BLE 차량 명령용 개인키를 클라우드 백업·기기 이관 대상에서 제외해 백업본 유출 경로를 차단했습니다. ② 위치 주입 서비스가 Android 14+에서 약 6시간 뒤 조용히 멈추던 문제 — 포그라운드 서비스 타입을 location으로 지정해 해소. ③ 좌표가 빈 채로 오는 응답을 '차량 절전'과 구분해, 위치 권한(scope) 확인이 필요하다고 안내하도록 개선.",
+  "version": "0.29.0",
+  "versionCode": 58,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.29.0.apk",
+  "notes": "블루투스로 차에 연결되면 홈 화면 상단에 내 차 그림이 뜹니다. VIN의 차종(모델 Y/3/S/X)을 읽어 테슬라 공식 렌더를 보여줘요(색은 기본 펄 화이트). 연결 전이나 차종을 알 수 없는 경우엔 표시하지 않습니다.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
