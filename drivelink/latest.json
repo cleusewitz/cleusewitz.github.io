@@ -1,7 +1,7 @@
 {
-  "version": "0.32.0",
-  "versionCode": 61,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.32.0.apk",
-  "notes": "홈 차 그림과 연결 상태를 한 장의 카드로 통합(오른쪽 차 아이콘 제거).",
+  "version": "0.33.0",
+  "versionCode": 62,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.33.0.apk",
+  "notes": "상단 헤더·설정 뒤로가기 고정(스크롤해도 안 움직임), 차 이름·연결상태를 이미지 위로, 블루투스/Tesla API 상태 가로 배치.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
