@@ -1,7 +1,7 @@
 {
-  "version": "0.36.0",
-  "versionCode": 65,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.36.0.apk",
-  "notes": "차 이름+상태 칩을 그림 위 헤더로 올려 차량과 겹치지 않게 정리(여백 추가).",
+  "version": "0.37.0",
+  "versionCode": 66,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.37.0.apk",
+  "notes": "홈 화면 위젯 리디자인 — 위치 전송·애프터블로우 2종(상태 칩 + 행동 버튼, 켜지면 카드 강조).",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
