@@ -1,7 +1,7 @@
 {
-  "version": "0.39.0",
-  "versionCode": 68,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.39.0.apk",
-  "notes": "위젯 텍스트가 안 나오던 문제 수정(레이아웃 재작성) + 위젯 크기 유연하게 조정 가능.",
+  "version": "0.40.0",
+  "versionCode": 69,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.40.0.apk",
+  "notes": "위젯을 눌렀을 때 상태(전송 중)가 안 바뀌던 문제 수정.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
