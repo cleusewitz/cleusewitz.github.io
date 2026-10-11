@@ -1,7 +1,7 @@
 {
-  "version": "1.58.0",
-  "versionCode": 242,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.58.0.apk",
-  "notes": "화면 캐스팅을 연속 스트림(/screen)으로 전환해 더 부드럽게, 백그라운드 연결유지 시 알림을 하나로 통합.",
+  "version": "1.59.0",
+  "versionCode": 243,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.59.0.apk",
+  "notes": "화면 캐스팅이 빈 화면으로 뜨던 문제 수정(연속 스트림 방식이 테슬라 브라우저에서 미지원이라 기존 폴링 방식으로 복귀).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
