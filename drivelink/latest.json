@@ -1,7 +1,7 @@
 {
-  "version": "0.41.0",
-  "versionCode": 70,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.41.0.apk",
-  "notes": "위젯 프리텐다드 폰트 + 카드 탭하면 앱 열기(버튼/스위치는 동작), 홈 블박뷰어 카드 제거, 애프터블로우·차량호출보정 상세 상단 헤더 고정.",
+  "version": "0.42.0",
+  "versionCode": 71,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.42.0.apk",
+  "notes": "좌표 전송·애프터블로우 작동 중 상주 알림 표시(켜둔 걸 잊지 않게) — 눌러 앱 열어 종료.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
