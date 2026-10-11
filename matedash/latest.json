@@ -1,7 +1,7 @@
 {
-  "version": "1.60.0",
-  "versionCode": 244,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.60.0.apk",
-  "notes": "화면 캐스팅을 하드웨어 H.264 스트림으로 부드럽게(브라우저가 지원할 때) — 미지원·실패 시 기존 폴링으로 자동 폴백해 끊김 없이 동작.",
+  "version": "1.61.0",
+  "versionCode": 245,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.61.0.apk",
+  "notes": "화면 캐스팅이 일부 브라우저(아이폰 사파리 등)에서 검게 뜨던 문제 수정 — 이제 폴링 화면을 먼저 항상 띄우고 H.264는 재생이 확인될 때만 전환.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
