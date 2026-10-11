@@ -1,7 +1,7 @@
 {
-  "version": "0.38.0",
-  "versionCode": 67,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.38.0.apk",
-  "notes": "홈 위젯에서 제목이 아이콘과 겹치고 가운데가 비던 문제 수정(텍스트를 아이콘 아래 세로 가운데로).",
+  "version": "0.39.0",
+  "versionCode": 68,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.39.0.apk",
+  "notes": "위젯 텍스트가 안 나오던 문제 수정(레이아웃 재작성) + 위젯 크기 유연하게 조정 가능.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
