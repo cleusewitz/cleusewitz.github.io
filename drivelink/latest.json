@@ -1,7 +1,7 @@
 {
-  "version": "0.40.0",
-  "versionCode": 69,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.40.0.apk",
-  "notes": "위젯을 눌렀을 때 상태(전송 중)가 안 바뀌던 문제 수정.",
+  "version": "0.41.0",
+  "versionCode": 70,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.41.0.apk",
+  "notes": "위젯 프리텐다드 폰트 + 카드 탭하면 앱 열기(버튼/스위치는 동작), 홈 블박뷰어 카드 제거, 애프터블로우·차량호출보정 상세 상단 헤더 고정.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
