@@ -1,7 +1,7 @@
 {
-  "version": "1.57.0",
-  "versionCode": 241,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.57.0.apk",
-  "notes": "설정 › 차량 소스에서 '백그라운드 연결 유지'를 켜면, 앱이 백그라운드로 가도 블루투스 연결을 유지하고 알림에 주행/충전 상태와 속도·배터리를 표시합니다(기본 꺼짐).",
+  "version": "1.58.0",
+  "versionCode": 242,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.58.0.apk",
+  "notes": "화면 캐스팅을 연속 스트림(/screen)으로 전환해 더 부드럽게, 백그라운드 연결유지 시 알림을 하나로 통합.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
