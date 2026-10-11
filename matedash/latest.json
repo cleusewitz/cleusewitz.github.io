@@ -1,7 +1,7 @@
 {
-  "version": "1.59.0",
-  "versionCode": 243,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.59.0.apk",
-  "notes": "화면 캐스팅이 빈 화면으로 뜨던 문제 수정(연속 스트림 방식이 테슬라 브라우저에서 미지원이라 기존 폴링 방식으로 복귀).",
+  "version": "1.60.0",
+  "versionCode": 244,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.60.0.apk",
+  "notes": "화면 캐스팅을 하드웨어 H.264 스트림으로 부드럽게(브라우저가 지원할 때) — 미지원·실패 시 기존 폴링으로 자동 폴백해 끊김 없이 동작.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
