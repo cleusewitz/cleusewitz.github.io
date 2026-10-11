@@ -1,7 +1,7 @@
 {
-  "version": "0.37.0",
-  "versionCode": 66,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.37.0.apk",
-  "notes": "홈 화면 위젯 리디자인 — 위치 전송·애프터블로우 2종(상태 칩 + 행동 버튼, 켜지면 카드 강조).",
+  "version": "0.38.0",
+  "versionCode": 67,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.38.0.apk",
+  "notes": "홈 위젯에서 제목이 아이콘과 겹치고 가운데가 비던 문제 수정(텍스트를 아이콘 아래 세로 가운데로).",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
