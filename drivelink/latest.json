@@ -1,7 +1,7 @@
 {
-  "version": "0.42.0",
-  "versionCode": 71,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.42.0.apk",
-  "notes": "좌표 전송·애프터블로우 작동 중 상주 알림 표시(켜둔 걸 잊지 않게) — 눌러 앱 열어 종료.",
+  "version": "0.43.0",
+  "versionCode": 72,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.43.0.apk",
+  "notes": "위젯 제목/안내를 버튼 바로 위로 정렬(디자인 레퍼런스에 맞춤).",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
