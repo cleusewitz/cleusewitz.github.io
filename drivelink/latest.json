@@ -1,7 +1,7 @@
 {
-  "version": "0.43.0",
-  "versionCode": 72,
-  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.43.0.apk",
-  "notes": "위젯 제목/안내를 버튼 바로 위로 정렬(디자인 레퍼런스에 맞춤).",
+  "version": "0.44.0",
+  "versionCode": 73,
+  "apkUrl": "https://cleusewitz.github.io/drivelink/DriveLink-0.44.0.apk",
+  "notes": "전송 중 오버레이를 칩 디자인으로(접힘 원↔캡슐, 드래그 스냅, 끊김 표시). 위젯: 카드 탭 시 앱 중복열림 수정 + 크기 컴팩트.",
   "htmlUrl": "https://cleusewitz.github.io/drivelink/"
 }
