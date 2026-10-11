@@ -1,7 +1,7 @@
 {
-  "version": "1.61.0",
-  "versionCode": 245,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.61.0.apk",
-  "notes": "화면 캐스팅이 일부 브라우저(아이폰 사파리 등)에서 검게 뜨던 문제 수정 — 이제 폴링 화면을 먼저 항상 띄우고 H.264는 재생이 확인될 때만 전환.",
+  "version": "1.62.0",
+  "versionCode": 246,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.62.0.apk",
+  "notes": "아이폰 사파리에서 캐스팅이 검은 화면으로 뜨던 문제 수정(영상 레이어가 재생 전엔 투명해지도록).",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
