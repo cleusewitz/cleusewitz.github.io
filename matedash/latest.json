@@ -1,7 +1,7 @@
 {
-  "version": "1.62.0",
-  "versionCode": 246,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.62.0.apk",
-  "notes": "아이폰 사파리에서 캐스팅이 검은 화면으로 뜨던 문제 수정(영상 레이어가 재생 전엔 투명해지도록).",
+  "version": "1.63.0",
+  "versionCode": 247,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.63.0.apk",
+  "notes": "블루투스 충전 중 전압·전류·누적 충전량을 표시(기존엔 0으로 뜨던 값). DC 급속은 전압이 0으로 올 수 있어 그땐 '-' 표시.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
