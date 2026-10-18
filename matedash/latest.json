@@ -1,7 +1,7 @@
 {
-  "version": "1.63.0",
-  "versionCode": 247,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.63.0.apk",
-  "notes": "블루투스 충전 중 전압·전류·누적 충전량을 표시(기존엔 0으로 뜨던 값). DC 급속은 전압이 0으로 올 수 있어 그땐 '-' 표시.",
+  "version": "1.64.0",
+  "versionCode": 248,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.64.0.apk",
+  "notes": "미러링에 H.264/WebSocket 실험 모드 추가 — 차 브라우저에서 Broadway.js로 디코드(부드러운 영상 목표). 설정>미러링에서 'H.264 방식(실험)' 켜기, 기본 OFF라 기존 동작은 그대로. 버전 옆 빌드 식별자 표시. 미러링 화면 중복 생성 크래시 수정.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
