@@ -1,7 +1,7 @@
 {
-  "version": "1.64.0",
-  "versionCode": 248,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.64.0.apk",
-  "notes": "미러링에 H.264/WebSocket 실험 모드 추가 — 차 브라우저에서 Broadway.js로 디코드(부드러운 영상 목표). 설정>미러링에서 'H.264 방식(실험)' 켜기, 기본 OFF라 기존 동작은 그대로. 버전 옆 빌드 식별자 표시. 미러링 화면 중복 생성 크래시 수정.",
+  "version": "1.64.1",
+  "versionCode": 249,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.64.1.apk",
+  "notes": "미러링 H.264 실험 모드 수정 — 일부 기기에서 영상이 안 나오던 문제(인코더 설정) 수정 + 진단 로그. H.264 방식은 설정>미러링에서 켜기, 기본 OFF.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
