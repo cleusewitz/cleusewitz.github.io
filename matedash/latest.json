@@ -1,7 +1,7 @@
 {
-  "version": "1.64.3",
-  "versionCode": 251,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.64.3.apk",
-  "notes": "미러링: '접속 암호 없이' 옵션(개인 핫스팟용) — 한 번 켜두면 유지. H.264 실험 모드 인코더 수정 포함. H.264/암호없이 모두 설정>미러링에서, 기본은 암호 필요.",
+  "version": "1.65.0",
+  "versionCode": 252,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.65.0.apk",
+  "notes": "과속·구간단속 카메라 안내에 '카카오' 소스 추가(KNSDK, 설정>클러스터에서 OSM↔카카오 전환, 기본 OSM). 과속 알림 음성 겹침 수정. 미러링 H.264/암호없이 옵션 포함.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
