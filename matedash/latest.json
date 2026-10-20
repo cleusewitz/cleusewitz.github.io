@@ -1,7 +1,1 @@
-{
-  "version": "1.65.4",
-  "versionCode": 256,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.65.4.apk",
-  "notes": "미러링 H.264: 브라우저 WebGL 검은화면 → 2D 캔버스 렌더로 수정 + 차 브라우저 진단 로그(폰 로그로).",
-  "htmlUrl": "https://cleusewitz.github.io/matedash/"
-}
+{"version":"1.65.5","versionCode":257,"apkUrl":"https://cleusewitz.github.io/matedash/MateDash-1.65.5.apk","notes":"미러링 H.264: 브라우저 네이티브 디코드(MSE)로 전환 — 삼성 High 프로파일 화면 수정 + 터치 안정화. (미지원 브라우저는 JPEG 폴백)","htmlUrl":"https://cleusewitz.github.io/matedash/"}
