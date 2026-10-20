@@ -1,1 +1,7 @@
-{"version":"1.65.4","versionCode":256,"apkUrl":"https://cleusewitz.github.io/matedash/MateDash-1.65.4.apk","notes":"미러링 H.264: 차 브라우저 진단 로그 추가(연결/스트림/디코드/에러를 폰 로그로).","htmlUrl":"https://cleusewitz.github.io/matedash/"}
+{
+  "version": "1.65.4",
+  "versionCode": 256,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.65.4.apk",
+  "notes": "미러링 H.264: 브라우저 WebGL 검은화면 → 2D 캔버스 렌더로 수정 + 차 브라우저 진단 로그(폰 로그로).",
+  "htmlUrl": "https://cleusewitz.github.io/matedash/"
+}
