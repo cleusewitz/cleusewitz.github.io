@@ -1,1 +1,7 @@
-{"version":"1.65.2","versionCode":254,"apkUrl":"https://cleusewitz.github.io/matedash/MateDash-1.65.2.apk","notes":"미러링 H.264: 테슬라 구형 브라우저용 XHR 스트리밍 폴백 추가(ReadableStream 미지원 우회).","htmlUrl":"https://cleusewitz.github.io/matedash/"}
+{
+  "version": "1.65.3",
+  "versionCode": 255,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.65.3.apk",
+  "notes": "미러링 H.264: 화면캐스팅 켤 때 인코더를 바로 시작(브라우저 접속 시 캐스팅이 꺼지던 문제 수정).",
+  "htmlUrl": "https://cleusewitz.github.io/matedash/"
+}
