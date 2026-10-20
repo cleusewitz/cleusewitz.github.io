@@ -1,7 +1,7 @@
 {
-  "version": "1.65.0",
-  "versionCode": 252,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.65.0.apk",
-  "notes": "과속·구간단속 카메라 안내에 '카카오' 소스 추가(KNSDK, 설정>클러스터에서 OSM↔카카오 전환, 기본 OSM). 과속 알림 음성 겹침 수정. 미러링 H.264/암호없이 옵션 포함.",
+  "version": "1.65.1",
+  "versionCode": 253,
+  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.65.1.apk",
+  "notes": "미러링 H.264: 테슬라 브라우저가 막던 WebSocket 대신 HTTP 스트리밍으로 전송(MJPEG와 같은 채널). 화면이 안 나오던 문제 수정.",
   "htmlUrl": "https://cleusewitz.github.io/matedash/"
 }
