@@ -1,7 +1,1 @@
-{
-  "version": "1.65.3",
-  "versionCode": 255,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.65.3.apk",
-  "notes": "미러링 H.264: 화면캐스팅 켤 때 인코더를 바로 시작(브라우저 접속 시 캐스팅이 꺼지던 문제 수정).",
-  "htmlUrl": "https://cleusewitz.github.io/matedash/"
-}
+{"version":"1.65.4","versionCode":256,"apkUrl":"https://cleusewitz.github.io/matedash/MateDash-1.65.4.apk","notes":"미러링 H.264: 차 브라우저 진단 로그 추가(연결/스트림/디코드/에러를 폰 로그로).","htmlUrl":"https://cleusewitz.github.io/matedash/"}
