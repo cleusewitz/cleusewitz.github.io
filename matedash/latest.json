@@ -1,7 +1,1 @@
-{
-  "version": "1.65.1",
-  "versionCode": 253,
-  "apkUrl": "https://cleusewitz.github.io/matedash/MateDash-1.65.1.apk",
-  "notes": "미러링 H.264: 테슬라 브라우저가 막던 WebSocket 대신 HTTP 스트리밍으로 전송(MJPEG와 같은 채널). 화면이 안 나오던 문제 수정.",
-  "htmlUrl": "https://cleusewitz.github.io/matedash/"
-}
+{"version":"1.65.2","versionCode":254,"apkUrl":"https://cleusewitz.github.io/matedash/MateDash-1.65.2.apk","notes":"미러링 H.264: 테슬라 구형 브라우저용 XHR 스트리밍 폴백 추가(ReadableStream 미지원 우회).","htmlUrl":"https://cleusewitz.github.io/matedash/"}
