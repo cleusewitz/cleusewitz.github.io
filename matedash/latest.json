@@ -1,1 +1,1 @@
-{"version":"1.65.5","versionCode":257,"apkUrl":"https://cleusewitz.github.io/matedash/MateDash-1.65.5.apk","notes":"미러링 H.264: 브라우저 네이티브 디코드(MSE)로 전환 — 삼성 High 프로파일 화면 수정 + 터치 안정화. (미지원 브라우저는 JPEG 폴백)","htmlUrl":"https://cleusewitz.github.io/matedash/"}
+{"version":"1.65.6","versionCode":258,"apkUrl":"https://cleusewitz.github.io/matedash/MateDash-1.65.6.apk","notes":"미러링 안정화: 느린 뷰어가 전체 멈추던 문제·기본모드 화면끊김(삼성)·인코더 정지 시 무한대기 수정","htmlUrl":"https://cleusewitz.github.io/matedash/"}
